@@ -615,7 +615,7 @@
   --checkbox-selected-hover-background-color: #14b8a6;
   --checkbox-selected-hover-border-color: #14b8a6;
   --checkbox-selected-disabled-background-color: #d1d5db;
-  --checkbox-selected-disabled-border-color: #d1d5db;
+  --checkbox-selected-disabled-border-color: #a3a3a3;
   --checkbox-selected-error-background-color: #f87171;
   --checkbox-selected-error-border-color: #f87171;
   --checkbox-checkmark-width: 16px;
