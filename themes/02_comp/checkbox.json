@@ -17,6 +17,12 @@
         "font-color": {
           "value": "{semantic.color.inputs.default.text-color}",
           "type": "color"
+        },
+        "disabled": {
+          "font-color": {
+            "value": "{semantic.color.inputs.disabled.text-color}",
+            "type": "color"
+          }
         }
       },
       "error": {
