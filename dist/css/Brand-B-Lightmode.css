@@ -596,6 +596,7 @@
   --checkbox-label-font-weight: 400;
   --checkbox-label-default-font-color: #737373;
   --checkbox-label-error-font-color: #f87171;
+  --checkbox-label-disabled-font-color: #a3a3a3;
   --checkbox-width: 18px;
   --checkbox-height: 18px;
   --checkbox-border-radius: 0px;
