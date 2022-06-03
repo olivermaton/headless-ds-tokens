@@ -595,6 +595,7 @@
   --checkbox-label-font-size: 16px;
   --checkbox-label-font-weight: 400;
   --checkbox-label-default-font-color: #737373;
+  --checkbox-label-disabled-font-color: #a3a3a3;
   --checkbox-label-error-font-color: #f87171;
   --checkbox-width: 18px;
   --checkbox-height: 18px;
@@ -614,7 +615,7 @@
   --checkbox-selected-hover-background-color: #737373;
   --checkbox-selected-hover-border-color: #737373;
   --checkbox-selected-disabled-background-color: #d4d4d4;
-  --checkbox-selected-disabled-border-color: #d4d4d4;
+  --checkbox-selected-disabled-border-color: #a3a3a3;
   --checkbox-selected-error-background-color: #f87171;
   --checkbox-selected-error-border-color: #f87171;
   --checkbox-checkmark-width: 16px;

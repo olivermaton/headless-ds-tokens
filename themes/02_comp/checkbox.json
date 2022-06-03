@@ -121,7 +121,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{semantic.color.inputs.disabled.background-color}",
+          "value": "{semantic.color.inputs.disabled.border-color}",
           "type": "color"
         }
       },
