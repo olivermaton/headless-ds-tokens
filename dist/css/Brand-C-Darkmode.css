@@ -657,7 +657,7 @@
   --heading-s-font-size: 18px;
   --heading-m-font-size: 22px;
   --heading-l-font-size: 28px;
-  --heading-xl-font-size: 36px;
+  --heading-xl: 300 36px/120% IBM Plex Sans;
   --heading-xxl-font-size: 44px;
   --heading-display-1-font-size: 140px;
   --heading-display-2-font-size: 112px;
