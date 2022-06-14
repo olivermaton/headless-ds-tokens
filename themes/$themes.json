@@ -707,7 +707,8 @@
       "Brand A - Light mode/alert-banner/error/background-color": "S:df0dbdd02b3fbc116f02262bdf68a43d197f8dc1,",
       "Brand A - Light mode/alert-banner/error/icon-color": "S:3b52567f419f6d7b87cb6a76bb5d58876d155d78,",
       "Brand A - Light mode/alert-banner/error/text-color": "S:f05c41a6134e317048db683ec29115b0d3ee1c69,",
-      "Brand A - Light mode/semantic/ui/shadow": "S:d8e3b0908b5278e69efa7a7c965a2b717e3225a5,"
+      "Brand A - Light mode/heading/xl": "S:96fcc968790321ea15b32879f48a50a1ecab816f,",
+      "Brand A - Light mode/semantic/ui/shadow": "S:4f206cff76f08c29839360e770d53cb3c19eaf2c,"
     }
   },
   {
@@ -1606,7 +1607,8 @@
       "Brand A - Dark mode/color/neutrals/black": "S:8ebe655f16e10f63dc35b57b052e4cf7f7ac3e82,",
       "Brand A - Dark mode/color/neutrals/white": "S:7521d6246abf93ce5d9e2606152834cd4bfd635f,",
       "Brand A - Dark mode/color/neutrals/transparent": "S:26eedf6eab64a0eb169e11340be41640e5923f8a,",
-      "Brand A - Dark mode/semantic/ui/shadow": "S:e6057ac035417376d0650c8541d07afbbc8091c8,"
+      "Brand A - Dark mode/heading/xl": "S:1755b3b1f4fbb8380d66a2aff3cd5c5ce1b8437f,",
+      "Brand A - Dark mode/semantic/ui/shadow": "S:d50a4a2b66a9114764e13923280b6e7b8554fbb5,"
     }
   },
   {
@@ -2281,7 +2283,8 @@
       "Brand B - Light mode/alert-banner/error/background-color": "S:f40ef35ce51c0e501288d6a4737324761ab68451,",
       "Brand B - Light mode/alert-banner/error/icon-color": "S:fb004522743fd4886775a8eac7f4e6c29358b429,",
       "Brand B - Light mode/alert-banner/error/text-color": "S:9f03aa2d657cce1b9aaad1cf6ccd4ad31b88d9a4,",
-      "Brand B - Light mode/semantic/ui/shadow": "S:b114b7b6023af2fb595362f4f1a60b9f9234c115,"
+      "Brand B - Light mode/heading/xl": "S:60737819a9c9955bc9907c61bd55a3f16ba310f6,",
+      "Brand B - Light mode/semantic/ui/shadow": "S:b28991d05b2bb3e3c049e78800f5619a5fb11028,"
     }
   },
   {
@@ -2956,7 +2959,8 @@
       "Brand B - Dark mode/alert-banner/error/background-color": "S:07b4dde0660f7c6271a7f5420227c79eb64f5965,",
       "Brand B - Dark mode/alert-banner/error/icon-color": "S:3590c1c81c48094510602aee1d08e4f4d6b31002,",
       "Brand B - Dark mode/alert-banner/error/text-color": "S:4545eea2fa6b22ec1e732cb134767c876e4647b1,",
-      "Brand B - Dark mode/semantic/ui/shadow": "S:c1755236e4c1ae832e96ebeaed6db1a677939331,"
+      "Brand B - Dark mode/heading/xl": "S:7e20a217225d221f75f5ab328207a5cbc861b8d9,",
+      "Brand B - Dark mode/semantic/ui/shadow": "S:e17dc44f974761fe684b20d237acf227872a225f,"
     }
   },
   {
@@ -3631,7 +3635,8 @@
       "Brand C - Light mode/alert-banner/error/background-color": "S:4dafa82b1b01ca47816a4cb12ffa3a6a0fc62b19,",
       "Brand C - Light mode/alert-banner/error/icon-color": "S:0c1e90eb01f9f7fa285af4a81803d8ca4f479685,",
       "Brand C - Light mode/alert-banner/error/text-color": "S:40b1fde63d3e1c5d30161703528d0b369845883f,",
-      "Brand C - Light mode/semantic/ui/shadow": "S:5296592b4dc3c3426ee5d4e16216e6fdd45c1b2c,"
+      "Brand C - Light mode/heading/xl": "S:218b17645c120feb3bad0c02465d7ac52121dbc6,",
+      "Brand C - Light mode/semantic/ui/shadow": "S:9969cf76e6d2ef667134b0c52643ee2c38db57d7,"
     }
   },
   {
@@ -4306,7 +4311,8 @@
       "Brand C - Dark mode/alert-banner/error/background-color": "S:9ae4b0a59bad6169b0b8ee511b8360c3de46674c,",
       "Brand C - Dark mode/alert-banner/error/icon-color": "S:ef9caf46897ce8e538ca6fabb4d1c0e5978d43f0,",
       "Brand C - Dark mode/alert-banner/error/text-color": "S:533e93d6ed01a2e8583053b368e1fd1553c24841,",
-      "Brand C - Dark mode/semantic/ui/shadow": "S:469d64ebfba46a593bc77756d8911a1a8ebae96c,"
+      "Brand C - Dark mode/heading/xl": "S:6872c47ea2d7ae520cf681ccf471824da854f207,",
+      "Brand C - Dark mode/semantic/ui/shadow": "S:17eaca79d43f7a93719022f8ff7c1c5e67f54024,"
     }
   },
   {
