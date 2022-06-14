@@ -24,14 +24,6 @@
         "font-size": {
             "value": "{semantic.font-size.inputs.s}",
             "type": "fontSizes"
-        },
-        "font-weight": {
-            "value": "{semantic.font-weight.inputs}",
-            "type": "fontWeight"
-        },
-        "font-family": {
-            "value": "{semantic.font-family.inputs}",
-            "type": "fontFamily"
         }
     },
     "m": {
@@ -58,14 +50,6 @@
         "font-size": {
             "value": "{semantic.font-size.inputs.m}",
             "type": "fontSizes"
-        },
-        "font-weight": {
-            "value": "{semantic.font-weight.inputs}",
-            "type": "fontWeight"
-        },
-        "font-family": {
-            "value": "{semantic.font-family.inputs}",
-            "type": "fontFamily"
         }
     },
     "l": {
@@ -92,14 +76,6 @@
         "font-size": {
             "value": "{semantic.font-size.inputs.l}",
             "type": "fontSizes"
-        },
-        "font-weight": {
-            "value": "{semantic.font-weight.inputs}",
-            "type": "fontWeight"
-        },
-        "font-family": {
-            "value": "{semantic.font-family.inputs}",
-            "type": "fontFamily"
         }
     },
     "xl": {
@@ -126,14 +102,6 @@
         "font-size": {
             "value": "{semantic.font-size.inputs.xl}",
             "type": "fontSizes"
-        },
-        "font-weight": {
-            "value": "{semantic.font-weight.inputs}",
-            "type": "fontWeight"
-        },
-        "font-family": {
-            "value": "{semantic.font-family.inputs}",
-            "type": "fontFamily"
         }
     },
     "border-radius": {
@@ -143,6 +111,14 @@
     "border-width": {
         "value": "{semantic.border-width.inputs}",
         "type": "borderWidth"
+    },
+    "font-weight": {
+        "value": "{semantic.font-weight.inputs}",
+        "type": "fontWeights"
+    },
+    "font-family": {
+        "value": "{semantic.font-family.inputs}",
+        "type": "fontFamilies"
     },
     "default": {
         "border-color": {
