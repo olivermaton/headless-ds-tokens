@@ -1,5 +1,5 @@
 {
- "dropdown": {
+  "dropdown": {
     "s": {
         "height": {
             "value": "{semantic.sizing.inputs.small}",
@@ -234,6 +234,6 @@
             "type": "color"
         }
     }
-}
+  }
 }
 
