@@ -192,5 +192,20 @@
         }
       }
     }
+  },
+  "heading": {
+    "xl": {
+      "value": {
+        "fontFamily": "{font-family.serif}",
+        "fontWeight": "{semantic.font-weight.typography.regular}",
+        "lineHeight": "{semantic.line-height.typography.heading}",
+        "fontSize": "{semantic.font-size.typography.heading.xl}",
+        "letterSpacing": "0",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "none"
+      },
+      "type": "typography"
+    }
   }
 }
