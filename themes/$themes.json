@@ -375,7 +375,7 @@
       "Brand-I/02_Dark": "disabled",
       "Brand-FT/01_Core": "source",
       "Brand-FT/02_Light": "enabled",
-      "02_comp/dropdown": "disabled"
+      "02_comp/dropdown": "enabled"
     },
     "$figmaStyleReferences": {}
   }
