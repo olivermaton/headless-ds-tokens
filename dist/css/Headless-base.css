@@ -444,6 +444,7 @@
   --body-xl-font-size: 20px;
   --body-xxl-font-size: 22px;
   --body-xxxl-font-size: 24px;
+  --body-text-color: #374151;
   --button-border-radius: 4px;
   --button-border-width: 1px;
   --button-font-family: IBM Plex Sans;
@@ -595,7 +596,6 @@
   --checkbox-label-font-size: 16px;
   --checkbox-label-font-weight: 400;
   --checkbox-label-default-font-color: #374151;
-  --checkbox-label-disabled-font-color: #6b7280;
   --checkbox-label-error-font-color: #f87171;
   --checkbox-width: 18px;
   --checkbox-height: 18px;
@@ -615,7 +615,7 @@
   --checkbox-selected-hover-background-color: #38bdf8;
   --checkbox-selected-hover-border-color: #38bdf8;
   --checkbox-selected-disabled-background-color: #d1d5db;
-  --checkbox-selected-disabled-border-color: #6b7280;
+  --checkbox-selected-disabled-border-color: #d1d5db;
   --checkbox-selected-error-background-color: #f87171;
   --checkbox-selected-error-border-color: #f87171;
   --checkbox-checkmark-width: 16px;
@@ -672,6 +672,7 @@
   --heading-semibold-font-weight: 600;
   --heading-bold-font-weight: 700;
   --heading-line-height: 120%;
+  --heading-text-color: #374151;
   --display-line-height: 100%;
   --help-text-default-text-color: #374151;
   --help-text-default-icon-color: #374151;
@@ -790,7 +791,7 @@
   --menu-item-disabled-icon-color: #6b7280;
   --menu-item-disabled-border-color: #6b7280;
   --menu-item-hover-border-color: #d1d5db;
-  --menu-item-hover-text-color: #374151;
+  --menu-item-hover-text-color: #d1d5db;
   --menu-item-hover-icon-color: #374151;
   --menu-item-hover-background-color: #ffffff;
   --menu-item-focus-border-color: #d1d5db;
@@ -846,9 +847,10 @@
   --radio-checkmark-selected-disabled-border-color: #6b7280;
   --switch-label-font-family: IBM Plex Sans;
   --switch-label-font-size: 16px;
-  --switch-label-font-weight: 400;
   --switch-label-default: #374151;
-  --switch-track-unselected-default-border-color: #d1d5db;
+  --switch-label-disabled: #6b7280;
+  --switch-label-font-weight: 400;
+  --switch-track-unselected-default-background-color: #d1d5db;
   --switch-track-unselected-hover-border-color: #d1d5db;
   --switch-track-unselected-focus-background-color: #d1d5db;
   --switch-track-unselected-disabled-background-color: #6b7280;
