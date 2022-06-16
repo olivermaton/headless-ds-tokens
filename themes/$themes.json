@@ -31,7 +31,8 @@
       "Brand-C/02_Dark": "disabled",
       "Brand-I/01_Light": "disabled",
       "Brand-I/02_Dark": "disabled",
-      "Brand-FT/01_Core": "disabled"
+      "Brand-FT/01_Core": "disabled",
+      "Brand-FT/02_Light": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -67,7 +68,8 @@
       "Brand-I/02_Dark": "disabled",
       "Brand-A/01_Light": "enabled",
       "Brand-A/02_Dark": "disabled",
-      "Brand-FT/01_Core": "disabled"
+      "Brand-FT/01_Core": "disabled",
+      "Brand-FT/02_Light": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -103,7 +105,8 @@
       "Brand-I/02_Dark": "disabled",
       "Brand-A/01_Light": "enabled",
       "Brand-A/02_Dark": "enabled",
-      "Brand-FT/01_Core": "disabled"
+      "Brand-FT/01_Core": "disabled",
+      "Brand-FT/02_Light": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -139,7 +142,8 @@
       "Brand-I/02_Dark": "disabled",
       "Brand-A/01_Light": "disabled",
       "Brand-A/02_Dark": "disabled",
-      "Brand-FT/01_Core": "disabled"
+      "Brand-FT/01_Core": "disabled",
+      "Brand-FT/02_Light": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -175,7 +179,8 @@
       "Brand-I/02_Dark": "disabled",
       "Brand-A/01_Light": "disabled",
       "Brand-A/02_Dark": "disabled",
-      "Brand-FT/01_Core": "disabled"
+      "Brand-FT/01_Core": "disabled",
+      "Brand-FT/02_Light": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -211,7 +216,8 @@
       "Brand-B/02_Dark": "disabled",
       "Brand-C/01_Light": "enabled",
       "Brand-C/02_Dark": "disabled",
-      "Brand-FT/01_Core": "disabled"
+      "Brand-FT/01_Core": "disabled",
+      "Brand-FT/02_Light": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -247,7 +253,8 @@
       "Brand-B/02_Dark": "disabled",
       "Brand-C/01_Light": "enabled",
       "Brand-C/02_Dark": "enabled",
-      "Brand-FT/01_Core": "disabled"
+      "Brand-FT/01_Core": "disabled",
+      "Brand-FT/02_Light": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -283,7 +290,8 @@
       "Brand-B/02_Dark": "disabled",
       "Brand-C/01_Light": "disabled",
       "Brand-C/02_Dark": "disabled",
-      "Brand-FT/01_Core": "disabled"
+      "Brand-FT/01_Core": "disabled",
+      "Brand-FT/02_Light": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -319,7 +327,45 @@
       "Brand-C/02_Dark": "disabled",
       "Brand-I/01_Light": "enabled",
       "Brand-I/02_Dark": "enabled",
-      "Brand-FT/01_Core": "disabled"
+      "Brand-FT/01_Core": "disabled",
+      "Brand-FT/02_Light": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "f5647ad9f703014281a800348721f984b4009084",
+    "name": "Brand FT",
+    "selectedTokenSets": {
+      "01_core": "source",
+      "02_comp/alert-banner": "enabled",
+      "02_comp/avatar": "enabled",
+      "02_comp/body": "enabled",
+      "02_comp/button": "enabled",
+      "02_comp/checkbox": "enabled",
+      "02_comp/code": "enabled",
+      "02_comp/detail": "enabled",
+      "02_comp/divider": "enabled",
+      "02_comp/field-label": "enabled",
+      "02_comp/heading": "enabled",
+      "02_comp/help-text": "enabled",
+      "02_comp/icon-button": "enabled",
+      "02_comp/link": "enabled",
+      "02_comp/menu-item": "enabled",
+      "02_comp/radio": "enabled",
+      "02_comp/switch": "enabled",
+      "02_comp/tag": "enabled",
+      "02_comp/text-field": "enabled",
+      "03_semantic": "enabled",
+      "Brand-A/01_Light": "disabled",
+      "Brand-A/02_Dark": "disabled",
+      "Brand-B/01_Light": "disabled",
+      "Brand-B/02_Dark": "disabled",
+      "Brand-C/01_Light": "disabled",
+      "Brand-C/02_Dark": "disabled",
+      "Brand-I/01_Light": "disabled",
+      "Brand-I/02_Dark": "disabled",
+      "Brand-FT/01_Core": "source",
+      "Brand-FT/02_Light": "enabled"
     },
     "$figmaStyleReferences": {}
   }
