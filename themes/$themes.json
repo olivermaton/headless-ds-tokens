@@ -32,7 +32,8 @@
       "Brand-I/01_Light": "disabled",
       "Brand-I/02_Dark": "disabled",
       "Brand-FT/01_Core": "disabled",
-      "Brand-FT/02_Light": "disabled"
+      "Brand-FT/02_Light": "disabled",
+      "02_comp/dropdown": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -69,7 +70,8 @@
       "Brand-A/01_Light": "enabled",
       "Brand-A/02_Dark": "disabled",
       "Brand-FT/01_Core": "disabled",
-      "Brand-FT/02_Light": "disabled"
+      "Brand-FT/02_Light": "disabled",
+      "02_comp/dropdown": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -106,7 +108,8 @@
       "Brand-A/01_Light": "enabled",
       "Brand-A/02_Dark": "enabled",
       "Brand-FT/01_Core": "disabled",
-      "Brand-FT/02_Light": "disabled"
+      "Brand-FT/02_Light": "disabled",
+      "02_comp/dropdown": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -143,7 +146,8 @@
       "Brand-A/01_Light": "disabled",
       "Brand-A/02_Dark": "disabled",
       "Brand-FT/01_Core": "disabled",
-      "Brand-FT/02_Light": "disabled"
+      "Brand-FT/02_Light": "disabled",
+      "02_comp/dropdown": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -180,7 +184,8 @@
       "Brand-A/01_Light": "disabled",
       "Brand-A/02_Dark": "disabled",
       "Brand-FT/01_Core": "disabled",
-      "Brand-FT/02_Light": "disabled"
+      "Brand-FT/02_Light": "disabled",
+      "02_comp/dropdown": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -217,7 +222,8 @@
       "Brand-C/01_Light": "enabled",
       "Brand-C/02_Dark": "disabled",
       "Brand-FT/01_Core": "disabled",
-      "Brand-FT/02_Light": "disabled"
+      "Brand-FT/02_Light": "disabled",
+      "02_comp/dropdown": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -254,7 +260,8 @@
       "Brand-C/01_Light": "enabled",
       "Brand-C/02_Dark": "enabled",
       "Brand-FT/01_Core": "disabled",
-      "Brand-FT/02_Light": "disabled"
+      "Brand-FT/02_Light": "disabled",
+      "02_comp/dropdown": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -291,7 +298,8 @@
       "Brand-C/01_Light": "disabled",
       "Brand-C/02_Dark": "disabled",
       "Brand-FT/01_Core": "disabled",
-      "Brand-FT/02_Light": "disabled"
+      "Brand-FT/02_Light": "disabled",
+      "02_comp/dropdown": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -328,7 +336,8 @@
       "Brand-I/01_Light": "enabled",
       "Brand-I/02_Dark": "enabled",
       "Brand-FT/01_Core": "disabled",
-      "Brand-FT/02_Light": "disabled"
+      "Brand-FT/02_Light": "disabled",
+      "02_comp/dropdown": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -365,7 +374,8 @@
       "Brand-I/01_Light": "disabled",
       "Brand-I/02_Dark": "disabled",
       "Brand-FT/01_Core": "source",
-      "Brand-FT/02_Light": "enabled"
+      "Brand-FT/02_Light": "enabled",
+      "02_comp/dropdown": "disabled"
     },
     "$figmaStyleReferences": {}
   }
