@@ -879,6 +879,14 @@
   --switch-handle-selected-disabled-background-color: #cbd5e1;
   --switch-handle-selected-read-only-border-color: #d4d4d8;
   --switch-handle-selected-read-only-background-color: #d4d4d8;
+  --switch-mobile-track-width: 56px;
+  --switch-mobile-track-height: 32px;
+  --switch-mobile-handle-width: 32px;
+  --switch-mobile-handle-height: 32px;
+  --switch-desktop-track-width: 40px;
+  --switch-desktop-track-height: 24px;
+  --switch-desktop-handle-width: 24px;
+  --switch-desktop-handle-height: 24px;
   --tag-font-family: Satoshi Variable;
   --tag-font-weight: 400;
   --tag-border-radius: 100px;
