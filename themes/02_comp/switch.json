@@ -219,17 +219,17 @@
           "type": "sizing"
         },
         "height": {
-          "value": "{size.300}",
+          "value": "{size.275}",
           "type": "sizing"
         }
       },
       "handle": {
         "width": {
-          "value": "{size.300}",
+          "value": "{size.275}",
           "type": "sizing"
         },
         "height": {
-          "value": "{size.300}",
+          "value": "{size.275}",
           "type": "sizing"
         }
       }
