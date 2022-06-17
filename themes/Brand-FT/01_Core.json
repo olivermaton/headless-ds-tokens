@@ -140,5 +140,15 @@
       "value": "16",
       "type": "sizing"
     }
+  },
+  "font-size": {
+    "xs": {
+      "value": "11px",
+      "type": "fontSizes"
+    },
+    "sm": {
+      "value": "12px",
+      "type": "fontSizes"
+    }
   }
 }
