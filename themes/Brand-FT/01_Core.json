@@ -96,5 +96,19 @@
       "value": "hsla(206,22%,7%,.15)",
       "type": "color"
     }
+  },
+  "itemSpacing": {
+    "sm": {
+      "value": "8",
+      "type": "spacing"
+    },
+    "xs": {
+      "value": "4",
+      "type": "spacing"
+    },
+    "md": {
+      "value": "16",
+      "type": "spacing"
+    }
   }
 }
