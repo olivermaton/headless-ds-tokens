@@ -279,6 +279,16 @@
                 "type": "spacing"
               }
             }
+          },
+          "border-radius": {
+            "actions": {
+              "value": "{borderRadius.sm}",
+              "type": "borderRadius"
+            },
+            "inputs": {
+              "value": "{borderRadius.xs}",
+              "type": "borderRadius"
+            }
           }
     }
 }
