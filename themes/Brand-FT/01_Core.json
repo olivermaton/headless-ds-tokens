@@ -110,5 +110,19 @@
       "value": "16",
       "type": "spacing"
     }
+  },
+  "space": {
+    "xs": {
+      "value": "4",
+      "type": "spacing"
+    },
+    "sm": {
+      "value": "8",
+      "type": "spacing"
+    },
+    "md": {
+      "value": "16",
+      "type": "spacing"
+    }
   }
 }
