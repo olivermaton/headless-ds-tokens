@@ -798,6 +798,7 @@
   --menu-item-focus-text-color: #9ca3af;
   --menu-item-focus-icon-color: #9ca3af;
   --menu-item-focus-background-color: #222222;
+  --menu-item-focus-border-width: 4px;
   --menu-item-selected-border-color: #0d9488;
   --menu-item-selected-text-color: #0d9488;
   --menu-item-selected-icon-color: #0d9488;
@@ -879,14 +880,6 @@
   --switch-handle-selected-disabled-background-color: #d1d5db;
   --switch-handle-selected-read-only-border-color: #222222;
   --switch-handle-selected-read-only-background-color: #222222;
-  --switch-mobile-track-width: 56px;
-  --switch-mobile-track-height: 32px;
-  --switch-mobile-handle-width: 32px;
-  --switch-mobile-handle-height: 32px;
-  --switch-desktop-track-width: 40px;
-  --switch-desktop-track-height: 22px;
-  --switch-desktop-handle-width: 22px;
-  --switch-desktop-handle-height: 22px;
   --tag-font-family: IBM Plex Sans;
   --tag-font-weight: 400;
   --tag-border-radius: 100px;

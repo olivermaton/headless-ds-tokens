@@ -798,6 +798,7 @@
   --menu-item-focus-text-color: #374151;
   --menu-item-focus-icon-color: #374151;
   --menu-item-focus-background-color: #ffffff;
+  --menu-item-focus-border-width: 4px;
   --menu-item-selected-border-color: #D12129;
   --menu-item-selected-text-color: #D12129;
   --menu-item-selected-icon-color: #D12129;
@@ -879,14 +880,6 @@
   --switch-handle-selected-disabled-background-color: #d1d5db;
   --switch-handle-selected-read-only-border-color: #F5F5F5;
   --switch-handle-selected-read-only-background-color: #ffffff;
-  --switch-mobile-track-width: 56px;
-  --switch-mobile-track-height: 32px;
-  --switch-mobile-handle-width: 32px;
-  --switch-mobile-handle-height: 32px;
-  --switch-desktop-track-width: 40px;
-  --switch-desktop-track-height: 22px;
-  --switch-desktop-handle-width: 22px;
-  --switch-desktop-handle-height: 22px;
   --tag-font-family: Inter;
   --tag-font-weight: 400;
   --tag-border-radius: 8px;
