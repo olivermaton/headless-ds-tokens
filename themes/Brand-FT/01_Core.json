@@ -9,6 +9,10 @@
         "value": "#212121",
         "type": "color"
       }
+    },
+    "white": {
+      "value": "#FFFFFF",
+      "type": "color"
     }
   }
 }
