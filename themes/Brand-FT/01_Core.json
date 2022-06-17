@@ -160,5 +160,15 @@
       "value": "Medium",
       "type": "fontWeights"
     }
+  },
+  "font-family": {
+    "sans": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    },
+    "mono": {
+      "value": "JetBrainsMono, monospace",
+      "type": "fontFamilies"
+    }
   }
 }
