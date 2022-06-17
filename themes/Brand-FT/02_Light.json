@@ -451,6 +451,30 @@
                 "type": "sizing"
               }
             }
+          },
+          "line-height": {
+            "typography": {
+              "heading": {
+                "value": "{line-height.120}",
+                "type": "lineHeights"
+              },
+              "display": {
+                "value": "{line-height.100}",
+                "type": "lineHeights"
+              },
+              "body": {
+                "value": "{line-height.2}",
+                "type": "lineHeights"
+              },
+              "code": {
+                "value": "{line-height.1}",
+                "type": "lineHeights"
+              },
+              "detail": {
+                "value": "{line-height.1}",
+                "type": "lineHeights"
+              }
+            }
           }
     }
 }
