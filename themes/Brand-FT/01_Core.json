@@ -91,6 +91,10 @@
         "value": "#18A0FB",
         "type": "color"
       }
+    },
+    "shadow": {
+      "value": "hsla(206,22%,7%,.15)",
+      "type": "color"
     }
   }
 }
