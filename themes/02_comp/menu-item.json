@@ -70,6 +70,10 @@
       "background-color": {
         "value": "{semantic.color.inputs.focus.background-color}",
         "type": "color"
+      },
+      "border-width": {
+        "value": "{semantic.border-width.focus}",
+        "type": "borderWidth"
       }
     },
     "selected": {

@@ -189,50 +189,6 @@
           }
         }
       }
-    },
-    "mobile": {
-      "track": {
-        "width": {
-          "value": "{size.700}",
-          "type": "sizing"
-        },
-        "height": {
-          "value": "{size.400}",
-          "type": "sizing"
-        }
-      },
-      "handle": {
-        "width": {
-          "value": "{size.400}",
-          "type": "sizing"
-        },
-        "height": {
-          "value": "{size.400}",
-          "type": "sizing"
-        }
-      }
-    },
-    "desktop": {
-      "track": {
-        "width": {
-          "value": "{size.500}",
-          "type": "sizing"
-        },
-        "height": {
-          "value": "{size.275}",
-          "type": "sizing"
-        }
-      },
-      "handle": {
-        "width": {
-          "value": "{size.275}",
-          "type": "sizing"
-        },
-        "height": {
-          "value": "{size.275}",
-          "type": "sizing"
-        }
-      }
     }
   }
 }
