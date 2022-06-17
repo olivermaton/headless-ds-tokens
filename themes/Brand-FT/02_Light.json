@@ -373,6 +373,84 @@
               "value": "{border-width.1}",
               "type": "borderWidth"
             }
+          },
+          "sizing": {
+            "actions": {
+              "small": {
+                "value": "{semantic.component.small}",
+                "type": "sizing"
+              },
+              "medium": {
+                "value": "{semantic.component.medium}",
+                "type": "sizing"
+              },
+              "large": {
+                "value": "{semantic.component.large}",
+                "type": "sizing"
+              },
+              "extra-large": {
+                "value": "{semantic.component.extra-large}",
+                "type": "sizing"
+              },
+              "icon-size": {
+                "small": {
+                  "value": "{size.200}",
+                  "type": "sizing"
+                },
+                "medium": {
+                  "value": "{size.300}",
+                  "type": "sizing"
+                },
+                "large": {
+                  "value": "{size.400}",
+                  "type": "sizing"
+                },
+                "extra-large": {
+                  "value": "{size.500}",
+                  "type": "sizing"
+                }
+              }
+            },
+            "inputs": {
+              "small": {
+                "value": "{semantic.component.small}",
+                "type": "sizing"
+              },
+              "medium": {
+                "value": "{size.sm}",
+                "type": "sizing"
+              },
+              "large": {
+                "value": "{semantic.component.large}",
+                "type": "sizing"
+              },
+              "extra-large": {
+                "value": "{semantic.component.extra-large}",
+                "type": "sizing"
+              },
+              "icon-size": {
+                "small": {
+                  "value": "{size.200}",
+                  "type": "sizing"
+                },
+                "medium": {
+                  "value": "{size.300}",
+                  "type": "sizing"
+                },
+                "large": {
+                  "value": "{size.400}",
+                  "type": "sizing"
+                },
+                "extra-large": {
+                  "value": "{size.500}",
+                  "type": "sizing"
+                }
+              },
+              "width": {
+                "value": "{size.250}",
+                "type": "sizing"
+              }
+            }
           }
     }
 }
