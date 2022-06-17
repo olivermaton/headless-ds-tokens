@@ -343,6 +343,26 @@
               "value": "{font-family.sans}",
               "type": "fontFamilies"
             }
+          },
+          "font-weight": {
+            "actions": {
+              "value": "{font-weight.medium}",
+              "type": "fontWeights"
+            },
+            "inputs": {
+              "value": "{font-weight.medium}",
+              "type": "fontWeights"
+            },
+            "typography": {
+              "primary": {
+                "value": "{font-weight.medium}",
+                "type": "fontWeights"
+              },
+              "secondary": {
+                "value": "{font-weight.regular}",
+                "type": "fontWeights"
+              }
+            }
           }
     }
 }
