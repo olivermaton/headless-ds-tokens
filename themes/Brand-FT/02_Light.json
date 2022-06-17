@@ -289,6 +289,46 @@
               "value": "{borderRadius.xs}",
               "type": "borderRadius"
             }
+          },
+          "font-size": {
+            "actions": {
+              "s": {
+                "value": "{font-size.xs}",
+                "type": "fontSizes"
+              }
+            },
+            "inputs": {
+              "m": {
+                "value": "{font-size.xs}",
+                "type": "fontSizes"
+              }
+            },
+            "feedback": {
+              "m": {
+                "value": "{font-size.xs}",
+                "type": "fontSizes"
+              }
+            },
+            "typography": {
+              "heading": {
+                "xs": {
+                  "value": "{font-size.xs}",
+                  "type": "fontSizes"
+                }
+              },
+              "body": {
+                "xs": {
+                  "value": "{font-size.xs}",
+                  "type": "fontSizes"
+                }
+              },
+              "detail": {
+                "xs": {
+                  "value": "{font-size.xs}",
+                  "type": "fontSizes"
+                }
+              }
+            }
           }
     }
 }
