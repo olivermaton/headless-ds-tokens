@@ -245,6 +245,40 @@
                 }
               }
             }
+          },
+          "spacing": {
+            "actions": {
+              "padding": {
+                "vertical": {
+                  "value": "{space.100}",
+                  "type": "spacing"
+                },
+                "horizontal": {
+                  "value": "{space.200}",
+                  "type": "spacing"
+                }
+              },
+              "space-between": {
+                "value": "{itemSpacing.xs}",
+                "type": "spacing"
+              }
+            },
+            "inputs": {
+              "padding": {
+                "padding-left": {
+                  "value": "{space.sm}",
+                  "type": "spacing"
+                },
+                "padding-right": {
+                  "value": "{space.sm}",
+                  "type": "spacing"
+                }
+              },
+              "space-between": {
+                "value": "{itemSpacing.sm}",
+                "type": "spacing"
+              }
+            }
           }
     }
 }
