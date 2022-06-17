@@ -329,6 +329,20 @@
                 }
               }
             }
+          },
+          "font-family": {
+            "actions": {
+              "value": "{font-family.sans}",
+              "type": "fontFamilies"
+            },
+            "inputs": {
+              "value": "{font-family.sans}",
+              "type": "fontFamilies"
+            },
+            "typography": {
+              "value": "{font-family.sans}",
+              "type": "fontFamilies"
+            }
           }
     }
 }
