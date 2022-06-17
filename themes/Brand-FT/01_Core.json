@@ -150,5 +150,15 @@
       "value": "12px",
       "type": "fontSizes"
     }
+  },
+  "font-weight": {
+    "regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "medium": {
+      "value": "Medium",
+      "type": "fontWeights"
+    }
   }
 }
