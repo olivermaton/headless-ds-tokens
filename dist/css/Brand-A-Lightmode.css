@@ -798,7 +798,6 @@
   --menu-item-focus-text-color: #64748b;
   --menu-item-focus-icon-color: #64748b;
   --menu-item-focus-background-color: #d4d4d8;
-  --menu-item-focus-border-width: 4px;
   --menu-item-selected-border-color: #2563eb;
   --menu-item-selected-text-color: #2563eb;
   --menu-item-selected-icon-color: #2563eb;
@@ -810,6 +809,13 @@
   --menu-item-sans-serif-font-family: Satoshi Variable;
   --menu-item-regular-font-weight: 400;
   --menu-item-border-width: 2px;
+  --menu-item-height: 32px;
+  --menu-item-focus-ring-border-width: 4px;
+  --menu-item-padding-left: 16px;
+  --menu-item-padding-right: 16px;
+  --menu-item-padding-top: 8px;
+  --menu-item-padding-bottom: 8px;
+  --menu-item-spac-between: 8px;
   --radio-label-font-family: Satoshi Variable;
   --radio-label-font-size: 16px;
   --radio-label-font-weight: 400;
