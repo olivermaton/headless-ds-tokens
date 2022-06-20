@@ -70,10 +70,6 @@
       "background-color": {
         "value": "{semantic.color.inputs.focus.background-color}",
         "type": "color"
-      },
-      "border-width": {
-        "value": "{semantic.border-width.focus}",
-        "type": "borderWidth"
       }
     },
     "selected": {
@@ -133,6 +129,36 @@
     "border-width": {
       "value": "{semantic.border-width.inputs}",
       "type": "borderWidth"
+    },
+    "height": {
+      "value": "{semantic.sizing.inputs.small}",
+      "type": "sizing"
+    },
+    "focus-ring": {
+      "border-width": {
+        "value": "{semantic.border-width.focus}",
+        "type": "borderWidth"
+      }
+    },
+    "padding-left": {
+      "value": "{semantic.spacing.inputs.small.padding-left}",
+      "type": "spacing"
+    },
+    "padding-right": {
+      "value": "{semantic.spacing.inputs.small.padding-left}",
+      "type": "spacing"
+    },
+    "padding-top": {
+      "value": "{semantic.spacing.inputs.small.padding-top}",
+      "type": "spacing"
+    },
+    "padding-bottom": {
+      "value": "{semantic.spacing.inputs.small.padding-bottom}",
+      "type": "spacing"
+    },
+    "spac-between": {
+      "value": "{semantic.spacing.inputs.space-between}",
+      "type": "spacing"
     }
   }
 }
