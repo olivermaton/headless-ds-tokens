@@ -6,5 +6,9 @@
   "2": {
     "value": "2",
     "type": "sizing"
+  },
+  "new": {
+    "value": "12",
+    "type": "sizing"
   }
 }
