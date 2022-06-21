@@ -31,7 +31,8 @@
       "Brand-C/02_Dark": "disabled",
       "Brand-I/01_Light": "disabled",
       "Brand-I/02_Dark": "disabled",
-      "sizing": "disabled"
+      "sizing": "disabled",
+      "second-sizing": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -67,7 +68,8 @@
       "Brand-I/02_Dark": "disabled",
       "Brand-A/01_Light": "enabled",
       "Brand-A/02_Dark": "disabled",
-      "sizing": "disabled"
+      "sizing": "disabled",
+      "second-sizing": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -103,7 +105,8 @@
       "Brand-I/02_Dark": "disabled",
       "Brand-A/01_Light": "enabled",
       "Brand-A/02_Dark": "enabled",
-      "sizing": "disabled"
+      "sizing": "disabled",
+      "second-sizing": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -139,7 +142,8 @@
       "Brand-I/02_Dark": "disabled",
       "Brand-A/01_Light": "disabled",
       "Brand-A/02_Dark": "disabled",
-      "sizing": "disabled"
+      "sizing": "disabled",
+      "second-sizing": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -175,7 +179,8 @@
       "Brand-I/02_Dark": "disabled",
       "Brand-A/01_Light": "disabled",
       "Brand-A/02_Dark": "disabled",
-      "sizing": "disabled"
+      "sizing": "disabled",
+      "second-sizing": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -211,7 +216,8 @@
       "Brand-B/02_Dark": "disabled",
       "Brand-C/01_Light": "enabled",
       "Brand-C/02_Dark": "disabled",
-      "sizing": "disabled"
+      "sizing": "disabled",
+      "second-sizing": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -247,7 +253,8 @@
       "Brand-B/02_Dark": "disabled",
       "Brand-C/01_Light": "enabled",
       "Brand-C/02_Dark": "enabled",
-      "sizing": "disabled"
+      "sizing": "disabled",
+      "second-sizing": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -283,7 +290,8 @@
       "Brand-B/02_Dark": "disabled",
       "Brand-C/01_Light": "disabled",
       "Brand-C/02_Dark": "disabled",
-      "sizing": "disabled"
+      "sizing": "disabled",
+      "second-sizing": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -319,7 +327,8 @@
       "Brand-C/02_Dark": "disabled",
       "Brand-I/01_Light": "enabled",
       "Brand-I/02_Dark": "enabled",
-      "sizing": "disabled"
+      "sizing": "disabled",
+      "second-sizing": "disabled"
     },
     "$figmaStyleReferences": {}
   }
