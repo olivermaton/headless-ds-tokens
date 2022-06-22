@@ -871,11 +871,11 @@
   --switch-handle-unselected-disabled-border-color: #9ca3af;
   --switch-handle-unselected-read-only-border-color: #ffffff;
   --switch-handle-unselected-background-color: #ffffff;
-  --switch-handle-selected-default-border-color: #ffffff;
+  --switch-handle-selected-default-border-color: #0d9488;
   --switch-handle-selected-default-background-color: #ffffff;
-  --switch-handle-selected-hover-border-color: #ffffff;
+  --switch-handle-selected-hover-border-color: #14b8a6;
   --switch-handle-selected-hover-background-color: #ffffff;
-  --switch-handle-selected-focus-border-color: #ffffff;
+  --switch-handle-selected-focus-border-color: #0d9488;
   --switch-handle-selected-focus-background-color: #ffffff;
   --switch-handle-selected-disabled-border-color: #9ca3af;
   --switch-handle-selected-disabled-background-color: #d1d5db;
