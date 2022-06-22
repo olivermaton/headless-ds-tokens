@@ -883,6 +883,8 @@
   --switch-handle-selected-read-only-background-color: #737373;
   --switch-mobile-track-width: 56px;
   --switch-mobile-track-height: 30px;
+  --switch-mobile-handle-width: 32px;
+  --switch-mobile-handle-height: 32px;
   --switch-red: #e51717;
   --tag-font-family: Zodiak Variable;
   --tag-font-weight: 400;
