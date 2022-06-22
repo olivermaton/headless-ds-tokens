@@ -851,6 +851,7 @@
   --switch-label-default: #374151;
   --switch-label-disabled: #6b7280;
   --switch-label-font-weight: 400;
+  --switch-label-red: #e90303;
   --switch-track-unselected-default-background-color: #d1d5db;
   --switch-track-unselected-hover-border-color: #d1d5db;
   --switch-track-unselected-focus-background-color: #d1d5db;
