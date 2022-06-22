@@ -20,6 +20,10 @@
       "font-weight": {
         "value": "{semantic.font-weight.inputs}",
         "type": "fontWeights"
+      },
+      "red": {
+        "value": "#e90303",
+        "type": "color"
       }
     },
     "track": {
