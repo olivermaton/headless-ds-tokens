@@ -869,6 +869,7 @@
   --switch-handle-unselected-hover-border-color: #ffffff;
   --switch-handle-unselected-focus-border-color: #ffffff;
   --switch-handle-unselected-disabled-border-color: #9ca3af;
+  --switch-handle-unselected-disabled-background-color: #d1d5db;
   --switch-handle-unselected-read-only-border-color: #ffffff;
   --switch-handle-unselected-background-color: #ffffff;
   --switch-handle-selected-default-border-color: #0d9488;
