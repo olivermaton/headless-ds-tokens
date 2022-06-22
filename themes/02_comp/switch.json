@@ -197,21 +197,21 @@
     "mobile": {
       "track": {
         "width": {
-          "value": "56",
+          "value": "{semantic.component.extra-large}",
           "type": "sizing"
         },
         "height": {
-          "value": "32",
+          "value": "{semantic.component.small}",
           "type": "sizing"
         }
       },
       "handle": {
         "width": {
-          "value": "{size.400}",
+          "value": "{semantic.component.small}",
           "type": "sizing"
         },
         "height": {
-          "value": "{size.400}",
+          "value": "{semantic.component.small}",
           "type": "sizing"
         }
       }
