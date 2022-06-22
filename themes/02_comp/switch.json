@@ -241,6 +241,10 @@
           "type": "sizing"
         }
       }
+    },
+    "border-radius": {
+      "value": "{semantic.border.radius.large}",
+      "type": "borderRadius"
     }
   },
   "switch-red": {
