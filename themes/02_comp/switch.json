@@ -189,14 +189,6 @@
           }
         }
       }
-    },
-    "mobile": {
-      "track": {
-        "width": {
-          "value": "{size.700}",
-          "type": "sizing"
-        }
-      }
     }
   }
 }
