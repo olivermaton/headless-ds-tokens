@@ -197,7 +197,7 @@
     "mobile": {
       "track": {
         "width": {
-          "value": "{size.700}",
+          "value": "56",
           "type": "sizing"
         },
         "height": {
