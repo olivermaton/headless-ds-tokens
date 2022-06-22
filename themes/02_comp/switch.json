@@ -97,6 +97,10 @@
             "value": "{semantic.color.inputs.default.border-color}",
             "type": "color"
           }
+        },
+        "blue": {
+          "value": "#4124bb",
+          "type": "color"
         }
       }
     },
