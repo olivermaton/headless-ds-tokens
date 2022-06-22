@@ -864,7 +864,6 @@
   --switch-track-selected-focus-border-color: #e7e5e4;
   --switch-track-selected-disabled-border-color: #a3a3a3;
   --switch-track-selected-read-only-border-color: #e7e5e4;
-  --switch-track-selected-blue: #4124bb;
   --switch-handle-border-width: 1px;
   --switch-handle-unselected-default-border-color: #e7e5e4;
   --switch-handle-unselected-hover-border-color: #e7e5e4;
@@ -882,6 +881,7 @@
   --switch-handle-selected-disabled-background-color: #d4d4d4;
   --switch-handle-selected-read-only-border-color: #e7e5e4;
   --switch-handle-selected-read-only-background-color: #e7e5e4;
+  --switch-mobile-track-width: 56px;
   --switch-red: #e51717;
   --tag-font-family: Zodiak Variable;
   --tag-font-weight: 400;

@@ -864,7 +864,6 @@
   --switch-track-selected-focus-border-color: #1A1A1A;
   --switch-track-selected-disabled-border-color: #6b7280;
   --switch-track-selected-read-only-border-color: #1A1A1A;
-  --switch-track-selected-blue: #4124bb;
   --switch-handle-border-width: 1px;
   --switch-handle-unselected-default-border-color: #1A1A1A;
   --switch-handle-unselected-hover-border-color: #1A1A1A;
@@ -882,6 +881,7 @@
   --switch-handle-selected-disabled-background-color: #d1d5db;
   --switch-handle-selected-read-only-border-color: #1A1A1A;
   --switch-handle-selected-read-only-background-color: #323232;
+  --switch-mobile-track-width: 56px;
   --switch-red: #e51717;
   --tag-font-family: Inter;
   --tag-font-weight: 400;

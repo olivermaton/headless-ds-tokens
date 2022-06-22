@@ -864,7 +864,6 @@
   --switch-track-selected-focus-border-color: #d4d4d8;
   --switch-track-selected-disabled-border-color: #94a3b8;
   --switch-track-selected-read-only-border-color: #d4d4d8;
-  --switch-track-selected-blue: #4124bb;
   --switch-handle-border-width: 1px;
   --switch-handle-unselected-default-border-color: #d4d4d8;
   --switch-handle-unselected-hover-border-color: #d4d4d8;
@@ -882,6 +881,7 @@
   --switch-handle-selected-disabled-background-color: #cbd5e1;
   --switch-handle-selected-read-only-border-color: #d4d4d8;
   --switch-handle-selected-read-only-background-color: #d4d4d8;
+  --switch-mobile-track-width: 56px;
   --switch-red: #e51717;
   --tag-font-family: Satoshi Variable;
   --tag-font-weight: 400;
