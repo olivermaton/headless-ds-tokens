@@ -144,7 +144,7 @@
       "selected": {
         "default": {
           "border-color": {
-            "value": "{semantic.color.inputs.default.border-color}",
+            "value": "{semantic.color.inputs.selected.default.border-color}",
             "type": "color"
           },
           "background-color": {
@@ -154,7 +154,7 @@
         },
         "hover": {
           "border-color": {
-            "value": "{semantic.color.inputs.hover.border-color}",
+            "value": "{semantic.color.inputs.selected.hover.border-color}",
             "type": "color"
           },
           "background-color": {
@@ -164,7 +164,7 @@
         },
         "focus": {
           "border-color": {
-            "value": "{semantic.color.inputs.focus.border-color}",
+            "value": "{semantic.color.inputs.selected.default.border-color}",
             "type": "color"
           },
           "background-color": {
