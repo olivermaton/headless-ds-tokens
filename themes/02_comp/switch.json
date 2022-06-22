@@ -190,5 +190,9 @@
         }
       }
     }
+  },
+  "switch-red": {
+    "value": "#e51717",
+    "type": "color"
   }
 }
