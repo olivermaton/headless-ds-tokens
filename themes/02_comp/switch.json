@@ -195,20 +195,6 @@
         "width": {
           "value": "{size.700}",
           "type": "sizing"
-        },
-        "height": {
-          "value": "{size.400}",
-          "type": "sizing"
-        }
-      },
-      "handle": {
-        "width": {
-          "value": "{size.400}",
-          "type": "sizing"
-        },
-        "height": {
-          "value": "{size.400}",
-          "type": "sizing"
         }
       }
     }
