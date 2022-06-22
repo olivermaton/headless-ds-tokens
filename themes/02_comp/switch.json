@@ -97,10 +97,6 @@
             "value": "{semantic.color.inputs.default.border-color}",
             "type": "color"
           }
-        },
-        "blue": {
-          "value": "#4124bb",
-          "type": "color"
         }
       }
     },
@@ -195,6 +191,14 @@
             "value": "{semantic.color.inputs.default.background-color}",
             "type": "color"
           }
+        }
+      }
+    },
+    "mobile": {
+      "track": {
+        "width": {
+          "value": "{size.700}",
+          "type": "sizing"
         }
       }
     }
