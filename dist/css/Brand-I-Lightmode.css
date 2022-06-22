@@ -890,6 +890,7 @@
   --switch-desktop-track-height: 24px;
   --switch-desktop-handle-width: 24px;
   --switch-desktop-handle-height: 24px;
+  --switch-border-radius: 16px;
   --switch-red: #e51717;
   --tag-font-family: Inter;
   --tag-font-weight: 400;
