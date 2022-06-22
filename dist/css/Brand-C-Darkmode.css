@@ -885,6 +885,10 @@
   --switch-mobile-track-height: 32px;
   --switch-mobile-handle-width: 32px;
   --switch-mobile-handle-height: 32px;
+  --switch-desktop-track-width: 40px;
+  --switch-desktop-track-height: 24px;
+  --switch-desktop-handle-width: 24px;
+  --switch-desktop-handle-height: 24px;
   --switch-red: #e51717;
   --tag-font-family: IBM Plex Sans;
   --tag-font-weight: 400;
