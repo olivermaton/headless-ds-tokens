@@ -782,6 +782,7 @@
   --link-on-background-hover-font-color: #ffffff;
   --link-on-background-visited-font-color: #ffffff;
   --link-disabled-font-color: #94a3b8;
+  --red: #ca3d3d;
   --menu-item-default-border-color: #475569;
   --menu-item-default-text-color: #94a3b8;
   --menu-item-default-icon-color: #94a3b8;
@@ -850,7 +851,6 @@
   --switch-label-default: #94a3b8;
   --switch-label-disabled: #94a3b8;
   --switch-label-font-weight: 400;
-  --switch-label-new: #a53030;
   --switch-track-unselected-default-background-color: #475569;
   --switch-track-unselected-hover-border-color: #475569;
   --switch-track-unselected-focus-background-color: #475569;
