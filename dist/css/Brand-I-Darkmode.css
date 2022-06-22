@@ -592,6 +592,7 @@
   --button-xl-icon-size: 40px;
   --button-xl-height: 56px;
   --button-line-height: 100%;
+  --test-example: 56px;
   --checkbox-label-font-family: IBM Plex Sans;
   --checkbox-label-font-size: 16px;
   --checkbox-label-font-weight: 400;
@@ -879,7 +880,6 @@
   --switch-handle-selected-disabled-background-color: #d1d5db;
   --switch-handle-selected-read-only-border-color: #1A1A1A;
   --switch-handle-selected-read-only-background-color: #323232;
-  --switch-mobile-track-width: 56px;
   --tag-font-family: Inter;
   --tag-font-weight: 400;
   --tag-border-radius: 8px;

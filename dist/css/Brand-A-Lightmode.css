@@ -592,6 +592,7 @@
   --button-xl-icon-size: 40px;
   --button-xl-height: 56px;
   --button-line-height: 100%;
+  --test-example: 56px;
   --checkbox-label-font-family: Satoshi Variable;
   --checkbox-label-font-size: 16px;
   --checkbox-label-font-weight: 400;
@@ -879,7 +880,6 @@
   --switch-handle-selected-disabled-background-color: #cbd5e1;
   --switch-handle-selected-read-only-border-color: #d4d4d8;
   --switch-handle-selected-read-only-background-color: #d4d4d8;
-  --switch-mobile-track-width: 56px;
   --tag-font-family: Satoshi Variable;
   --tag-font-weight: 400;
   --tag-border-radius: 100px;
