@@ -592,7 +592,6 @@
   --button-xl-icon-size: 40px;
   --button-xl-height: 56px;
   --button-line-height: 100%;
-  --test-example: 56px;
   --checkbox-label-font-family: IBM Plex Sans;
   --checkbox-label-font-size: 16px;
   --checkbox-label-font-weight: 400;
@@ -851,6 +850,7 @@
   --switch-label-default: #9ca3af;
   --switch-label-disabled: #a3a3a3;
   --switch-label-font-weight: 400;
+  --switch-label-new: #a53030;
   --switch-track-unselected-default-background-color: #222222;
   --switch-track-unselected-hover-border-color: #222222;
   --switch-track-unselected-focus-background-color: #222222;

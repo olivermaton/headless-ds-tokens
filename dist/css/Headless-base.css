@@ -592,7 +592,6 @@
   --button-xl-icon-size: 40px;
   --button-xl-height: 56px;
   --button-line-height: 100%;
-  --test-example: 56px;
   --checkbox-label-font-family: IBM Plex Sans;
   --checkbox-label-font-size: 16px;
   --checkbox-label-font-weight: 400;
@@ -851,6 +850,7 @@
   --switch-label-default: #374151;
   --switch-label-disabled: #6b7280;
   --switch-label-font-weight: 400;
+  --switch-label-new: #a53030;
   --switch-track-unselected-default-background-color: #d1d5db;
   --switch-track-unselected-hover-border-color: #d1d5db;
   --switch-track-unselected-focus-background-color: #d1d5db;
@@ -1070,7 +1070,6 @@
   --semantic-component-large: 48px;
   --semantic-component-extra-large: 56px;
   --semantic-ui-border-radius: 0px;
-  --semantic-ui-shadow: 0px 8px 10px 0 hsla(0, 0%, 0%, 0.07);
   --semantic-neutral-fg: #9ca3af;
   --semantic-neutral-emphasised: #6b7280;
   --semantic-neutral-muted: #d1d5db;

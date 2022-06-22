@@ -592,7 +592,6 @@
   --button-xl-icon-size: 40px;
   --button-xl-height: 56px;
   --button-line-height: 100%;
-  --test-example: 56px;
   --checkbox-label-font-family: Satoshi Variable;
   --checkbox-label-font-size: 16px;
   --checkbox-label-font-weight: 400;
@@ -851,6 +850,7 @@
   --switch-label-default: #64748b;
   --switch-label-disabled: #94a3b8;
   --switch-label-font-weight: 400;
+  --switch-label-new: #a53030;
   --switch-track-unselected-default-background-color: #d4d4d8;
   --switch-track-unselected-hover-border-color: #d4d4d8;
   --switch-track-unselected-focus-background-color: #d4d4d8;
@@ -1071,7 +1071,6 @@
   --semantic-component-large: 48px;
   --semantic-component-extra-large: 56px;
   --semantic-ui-border-radius: 100px;
-  --semantic-ui-shadow: 0px 8px 16px 0 hsla(0, 0%, 0%, 0.20);
   --semantic-neutral-fg: #9ca3af;
   --semantic-neutral-emphasised: #6b7280;
   --semantic-neutral-muted: #d1d5db;
