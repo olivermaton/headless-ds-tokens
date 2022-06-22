@@ -204,6 +204,16 @@
           "value": "30",
           "type": "sizing"
         }
+      },
+      "handle": {
+        "width": {
+          "value": "{size.400}",
+          "type": "sizing"
+        },
+        "height": {
+          "value": "{size.400}",
+          "type": "sizing"
+        }
       }
     }
   },
