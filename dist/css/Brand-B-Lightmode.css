@@ -857,7 +857,6 @@
   --switch-label-red: #e90303;
   --switch-track-unselected-default-background-color: #e7e5e4;
   --switch-track-unselected-default-red: #d61616;
-  --switch-track-unselected-default-border-color: #404040;
   --switch-track-unselected-hover-border-color: #e7e5e4;
   --switch-track-unselected-focus-background-color: #e7e5e4;
   --switch-track-unselected-disabled-background-color: #a3a3a3;
@@ -896,6 +895,7 @@
   --switch-desktop-handle-width: 24px;
   --switch-desktop-handle-height: 24px;
   --switch-border-radius: 16px;
+  --switch-space-between: 8px;
   --switch-red: #e51717;
   --tag-font-family: Zodiak Variable;
   --tag-font-weight: 400;

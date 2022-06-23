@@ -857,7 +857,6 @@
   --switch-label-red: #e90303;
   --switch-track-unselected-default-background-color: #ffffff;
   --switch-track-unselected-default-red: #d61616;
-  --switch-track-unselected-default-border-color: #0d9488;
   --switch-track-unselected-hover-border-color: #ffffff;
   --switch-track-unselected-focus-background-color: #ffffff;
   --switch-track-unselected-disabled-background-color: #9ca3af;
@@ -896,6 +895,7 @@
   --switch-desktop-handle-width: 24px;
   --switch-desktop-handle-height: 24px;
   --switch-border-radius: 16px;
+  --switch-space-between: 8px;
   --switch-red: #e51717;
   --tag-font-family: IBM Plex Sans;
   --tag-font-weight: 400;
