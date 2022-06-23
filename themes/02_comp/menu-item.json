@@ -133,6 +133,10 @@
     "border-radius": {
       "value": "{semantic.border-radius.inputs}",
       "type": "borderRadius"
+    },
+    "height": {
+      "value": "{semantic.sizing.inputs.small}",
+      "type": "sizing"
     }
   }
 }
