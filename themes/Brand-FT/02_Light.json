@@ -283,19 +283,19 @@
       },
       "feedback": {
           "padding-top": {
-            "value": "{spacing.100}",
+            "value": "{space.100}",
             "type": "spacing"
           },
           "padding-right": {
-            "value": "{spacing.100}",
+            "value": "{space.100}",
             "type": "spacing"
           },
           "padding-bottom": {
-            "value": "{spacing.100}",
+            "value": "{space.100}",
             "type": "spacing"
           },
           "padding-left": {
-            "value": "{spacing.100}",
+            "value": "{space.100}",
             "type": "spacing"
           }
       }
