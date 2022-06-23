@@ -606,14 +606,14 @@
   --checkbox-border-width: 1px;
   --checkbox-space-between: 8px;
   --checkbox-unselected-default-background-color: #ffffff;
-  --checkbox-unselected-default-border-color: #ffffff;
+  --checkbox-unselected-default-border-color: #0d9488;
   --checkbox-unselected-hover-background-color: #ffffff;
   --checkbox-unselected-hover-border-color: #ffffff;
   --checkbox-unselected-disabled-background-color: #d1d5db;
   --checkbox-unselected-disabled-border-color: #9ca3af;
   --checkbox-unselected-error-background-color: #ffffff;
   --checkbox-unselected-error-border-color: #f87171;
-  --checkbox-selected-default-background-color: #0d9488;
+  --checkbox-selected-default-background-color: #ffffff;
   --checkbox-selected-default-border-color: #0d9488;
   --checkbox-selected-hover-background-color: #14b8a6;
   --checkbox-selected-hover-border-color: #14b8a6;
