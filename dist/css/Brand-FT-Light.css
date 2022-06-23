@@ -589,7 +589,7 @@
   --button-s-padding-left: 16px;
   --button-s-padding-right: 16px;
   --button-s-icon-size: 16px;
-  --button-s-height: 32px;
+  --button-s-height: 12px;
   --button-m-text-size: 16px;
   --button-m-padding-left: 16px;
   --button-m-padding-right: 16px;
@@ -666,7 +666,7 @@
   --divider-small-width: 1px;
   --divider-medium-width: 2px;
   --divider-large-width: 4px;
-  --dropdown-s-height: 32px;
+  --dropdown-s-height: 12px;
   --dropdown-s-padding-left: 16px;
   --dropdown-s-padding-right: 16px;
   --dropdown-s-space-between: 8px;
@@ -829,8 +829,8 @@
   --icon-button-round-border-radius: 100px;
   --icon-button-border-width: 1px;
   --icon-button-s-icon-size: 16px;
-  --icon-button-s-height: 32px;
-  --icon-button-s-width: 32px;
+  --icon-button-s-height: 12px;
+  --icon-button-s-width: 12px;
   --icon-button-m-icon-size: 24px;
   --icon-button-m-height: 40px;
   --icon-button-m-width: 40px;
@@ -952,9 +952,9 @@
   --switch-handle-selected-read-only-border-color: #e0e0e0;
   --switch-handle-selected-read-only-background-color: #ffffff;
   --switch-mobile-track-width: 24px;
-  --switch-mobile-track-height: 32px;
-  --switch-mobile-handle-width: 32px;
-  --switch-mobile-handle-height: 32px;
+  --switch-mobile-track-height: 12px;
+  --switch-mobile-handle-width: 12px;
+  --switch-mobile-handle-height: 12px;
   --switch-desktop-track-width: 40px;
   --switch-desktop-track-height: 24px;
   --switch-desktop-handle-width: 24px;
@@ -1041,7 +1041,7 @@
   --tag-s-padding-right: 12px;
   --tag-s-padding-left: 12px;
   --tag-m-text-size: 16px;
-  --tag-m-height: 32px;
+  --tag-m-height: 12px;
   --tag-m-icon-size: 16px;
   --tag-m-padding-right: 16px;
   --tag-m-padding-left: 16px;
@@ -1075,7 +1075,7 @@
   --tag-error-background-color: #fff5f5;
   --tag-error-icon-color: #f87171;
   --tag-error-text-color: #616161;
-  --text-field-s-height: 32px;
+  --text-field-s-height: 12px;
   --text-field-s-icon-size: 16px;
   --text-field-s-font-size: 14px;
   --text-field-s-padding-left: 16px;
@@ -1179,7 +1179,7 @@
   --semantic-help-subtle: #f3e8ff;
   --semantic-help-on-success: #ffffff;
   --semantic-component-extra-small: 24px;
-  --semantic-component-small: 32px;
+  --semantic-component-small: 12px;
   --semantic-component-medium: 40px;
   --semantic-component-large: 48px;
   --semantic-component-extra-large: 24px;
@@ -1568,7 +1568,7 @@
   --semantic-border-width-navigation: 2px;
   --semantic-border-width-slider: 4px;
   --semantic-border-width-focus: 4px;
-  --semantic-sizing-actions-small: 32px;
+  --semantic-sizing-actions-small: 12px;
   --semantic-sizing-actions-medium: 40px;
   --semantic-sizing-actions-large: 48px;
   --semantic-sizing-actions-extra-large: 24px;
@@ -1576,7 +1576,7 @@
   --semantic-sizing-actions-icon-size-medium: 24px;
   --semantic-sizing-actions-icon-size-large: 32px;
   --semantic-sizing-actions-icon-size-extra-large: 40px;
-  --semantic-sizing-inputs-small: 32px;
+  --semantic-sizing-inputs-small: 12px;
   --semantic-sizing-inputs-medium: 16px;
   --semantic-sizing-inputs-large: 48px;
   --semantic-sizing-inputs-extra-large: 24px;
@@ -1608,7 +1608,7 @@
   --semantic-sizing-navigation-xxxl: 80px;
   --semantic-sizing-status-s-height: 24px;
   --semantic-sizing-status-s-icon-size: 8px;
-  --semantic-sizing-status-m-height: 32px;
+  --semantic-sizing-status-m-height: 12px;
   --semantic-sizing-status-m-icon-size: 16px;
   --semantic-sizing-status-l-height: 40px;
   --semantic-sizing-status-l-icon-size: 24px;
