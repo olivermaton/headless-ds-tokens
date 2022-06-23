@@ -17,6 +17,10 @@
       "type": "borderWidth"
     },
     "xxs": {
+      "1": {
+        "value": "1",
+        "type": "sizing"
+      },
       "height": {
         "value": "{semantic.sizing.navigation.xxs}",
         "type": "sizing"
