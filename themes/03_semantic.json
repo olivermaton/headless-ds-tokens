@@ -2061,7 +2061,7 @@
       },
       "feedback": {
         "value": "{line-height.2}",
-        "type":"lineHeights"
+        "type": "lineHeights"
       }
     }
   }
