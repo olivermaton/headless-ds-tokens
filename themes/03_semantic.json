@@ -2058,6 +2058,10 @@
           "value": "{line-height.1}",
           "type": "lineHeights"
         }
+      },
+      "feedback": {
+        "value": "{line-height.2}",
+        "type":"lineHeights"
       }
     }
   }
