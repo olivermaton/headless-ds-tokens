@@ -202,21 +202,23 @@
         }
       },
       "feedback": {
-        "border-color": {
-          "value": "{color.black.100}",
-          "type": "color"
-        },
-        "icon-color": {
-          "value": "{semantic.neutral.fg}",
-          "type": "color"
-        },
-        "background-color": {
-          "value": "{color.black.100}",
-          "type": "color"
-        },
-        "text-color": {
-          "value": "{color.white}",
-          "type": "color"
+        "default": {
+          "border-color": {
+            "value": "{color.black.100}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.neutral.fg}",
+            "type": "color"
+          },
+          "background-color": {
+            "value": "{color.black.100}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{color.white}",
+            "type": "color"
+          }
         }
       },
       "typography": {
@@ -278,6 +280,24 @@
           "value": "{itemSpacing.sm}",
           "type": "spacing"
         }
+      },
+      "feedback": {
+          "padding-top": {
+            "value": "{spacing.100}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{spacing.100}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{spacing.100}",
+            "type": "spacing"
+          },
+          "padding-left": {
+            "value": "{spacing.100}",
+            "type": "spacing"
+          }
       }
     },
     "border-radius": {
@@ -332,15 +352,15 @@
     },
     "font-family": {
       "actions": {
-        "value": "{font-family.sans}",
+        "value": "{font-family.sans-serif}",
         "type": "fontFamilies"
       },
       "inputs": {
-        "value": "{font-family.sans}",
+        "value": "{font-family.sans-serif}",
         "type": "fontFamilies"
       },
       "typography": {
-        "value": "{font-family.sans}",
+        "value": "{font-family.sans-serif}",
         "type": "fontFamilies"
       }
     },
