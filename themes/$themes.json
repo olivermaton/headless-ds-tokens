@@ -334,7 +334,7 @@
   },
   {
     "id": "26fe9d3e5929dcab54c613318cb996cf99e728dc",
-    "name": "Brand FT Light",
+    "name": "Brand FT - Light",
     "selectedTokenSets": {
       "01_core": "enabled",
       "02_comp/alert-banner": "enabled",
