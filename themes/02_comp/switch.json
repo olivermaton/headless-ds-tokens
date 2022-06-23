@@ -44,6 +44,10 @@
           "red": {
             "value": "#d61616",
             "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.inputs.selected.default.border-color}",
+            "type": "color"
           }
         },
         "hover": {
