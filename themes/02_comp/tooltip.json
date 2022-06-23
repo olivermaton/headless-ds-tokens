@@ -21,7 +21,7 @@
       "type": "fontWeights"
     },
     "font-size": {
-      "value": "{semantic.font-size.feedback.s}",
+      "value": "{semantic.font-size.feedback.m}",
       "type": "fontSizes"
     },
     "line-height": {
