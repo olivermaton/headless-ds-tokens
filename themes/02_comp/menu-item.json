@@ -129,14 +129,6 @@
     "border-width": {
       "value": "{semantic.border-width.inputs}",
       "type": "borderWidth"
-    },
-    "border-radius": {
-      "value": "{semantic.border-radius.inputs}",
-      "type": "borderRadius"
-    },
-    "height": {
-      "value": "{semantic.sizing.inputs.small}",
-      "type": "sizing"
     }
   }
 }

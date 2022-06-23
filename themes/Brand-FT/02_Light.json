@@ -332,15 +332,19 @@
     },
     "font-family": {
       "actions": {
-        "value": "{font-family.sans}",
+        "value": "{font-family.sans-serif}",
         "type": "fontFamilies"
       },
       "inputs": {
-        "value": "{font-family.sans}",
+        "value": "{font-family.sans-serif}",
         "type": "fontFamilies"
       },
       "typography": {
-        "value": "{font-family.sans}",
+        "value": "{font-family.sans-serif}",
+        "type": "fontFamilies"
+      },
+      "feedback": {
+        "value": "{font-family.sans-serif}",
         "type": "fontFamilies"
       }
     },
@@ -474,6 +478,12 @@
           "value": "{line-height.1}",
           "type": "lineHeights"
         }
+      }
+    },
+    "component": {
+      "extra-large": {
+        "value": "{size.300}",
+        "type": "sizing"
       }
     }
   }
