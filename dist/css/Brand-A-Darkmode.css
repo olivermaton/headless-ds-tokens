@@ -1,4 +1,6 @@
 .Brand-A-Darkmode {
+  --1: 1px;
+  --2: 2px;
   --border-radius-0: 0px;
   --border-radius-1: 1px;
   --border-radius-2: 2px;
@@ -395,6 +397,7 @@
   --avatar-icon-color: #ffffff;
   --avatar-border-radius: 100px;
   --avatar-border-width: 2px;
+  --avatar-xxs-1: 1px;
   --avatar-xxs-height: 20px;
   --avatar-xxs-width: 20px;
   --avatar-xxs-font-size: 10px;
@@ -782,6 +785,7 @@
   --link-on-background-hover-font-color: #ffffff;
   --link-on-background-visited-font-color: #ffffff;
   --link-disabled-font-color: #94a3b8;
+  --red: #ca3d3d;
   --menu-item-default-border-color: #475569;
   --menu-item-default-text-color: #94a3b8;
   --menu-item-default-icon-color: #94a3b8;
@@ -850,8 +854,9 @@
   --switch-label-default: #94a3b8;
   --switch-label-disabled: #94a3b8;
   --switch-label-font-weight: 400;
-  --switch-label-new: #a53030;
+  --switch-label-red: #e90303;
   --switch-track-unselected-default-background-color: #475569;
+  --switch-track-unselected-default-red: #d61616;
   --switch-track-unselected-hover-border-color: #475569;
   --switch-track-unselected-focus-background-color: #475569;
   --switch-track-unselected-disabled-background-color: #94a3b8;
@@ -868,18 +873,29 @@
   --switch-handle-unselected-hover-border-color: #475569;
   --switch-handle-unselected-focus-border-color: #475569;
   --switch-handle-unselected-disabled-border-color: #94a3b8;
+  --switch-handle-unselected-disabled-background-color: #cbd5e1;
   --switch-handle-unselected-read-only-border-color: #475569;
   --switch-handle-unselected-background-color: #475569;
-  --switch-handle-selected-default-border-color: #475569;
+  --switch-handle-selected-default-border-color: #2563eb;
   --switch-handle-selected-default-background-color: #475569;
-  --switch-handle-selected-hover-border-color: #475569;
+  --switch-handle-selected-hover-border-color: #3b82f6;
   --switch-handle-selected-hover-background-color: #ffffff;
-  --switch-handle-selected-focus-border-color: #475569;
+  --switch-handle-selected-focus-border-color: #2563eb;
   --switch-handle-selected-focus-background-color: #475569;
   --switch-handle-selected-disabled-border-color: #94a3b8;
   --switch-handle-selected-disabled-background-color: #cbd5e1;
   --switch-handle-selected-read-only-border-color: #475569;
   --switch-handle-selected-read-only-background-color: #475569;
+  --switch-mobile-track-width: 56px;
+  --switch-mobile-track-height: 32px;
+  --switch-mobile-handle-width: 32px;
+  --switch-mobile-handle-height: 32px;
+  --switch-desktop-track-width: 40px;
+  --switch-desktop-track-height: 24px;
+  --switch-desktop-handle-width: 24px;
+  --switch-desktop-handle-height: 24px;
+  --switch-border-radius: 16px;
+  --switch-red: #e51717;
   --tag-font-family: Satoshi Variable;
   --tag-font-weight: 400;
   --tag-border-radius: 100px;

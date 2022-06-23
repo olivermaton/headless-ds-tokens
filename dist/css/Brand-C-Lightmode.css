@@ -1,4 +1,6 @@
 .Brand-C-Lightmode {
+  --1: 1px;
+  --2: 2px;
   --border-radius-0: 0px;
   --border-radius-1: 1px;
   --border-radius-2: 2px;
@@ -395,6 +397,7 @@
   --avatar-icon-color: #ffffff;
   --avatar-border-radius: 100px;
   --avatar-border-width: 2px;
+  --avatar-xxs-1: 1px;
   --avatar-xxs-height: 20px;
   --avatar-xxs-width: 20px;
   --avatar-xxs-font-size: 10px;
@@ -782,6 +785,7 @@
   --link-on-background-hover-font-color: #ffffff;
   --link-on-background-visited-font-color: #ffffff;
   --link-disabled-font-color: #9ca3af;
+  --red: #ca3d3d;
   --menu-item-default-border-color: #ffffff;
   --menu-item-default-text-color: #4b5563;
   --menu-item-default-icon-color: #4b5563;
@@ -850,8 +854,9 @@
   --switch-label-default: #4b5563;
   --switch-label-disabled: #9ca3af;
   --switch-label-font-weight: 400;
-  --switch-label-new: #a53030;
+  --switch-label-red: #e90303;
   --switch-track-unselected-default-background-color: #ffffff;
+  --switch-track-unselected-default-red: #d61616;
   --switch-track-unselected-hover-border-color: #ffffff;
   --switch-track-unselected-focus-background-color: #ffffff;
   --switch-track-unselected-disabled-background-color: #9ca3af;
@@ -868,18 +873,29 @@
   --switch-handle-unselected-hover-border-color: #ffffff;
   --switch-handle-unselected-focus-border-color: #ffffff;
   --switch-handle-unselected-disabled-border-color: #9ca3af;
+  --switch-handle-unselected-disabled-background-color: #d1d5db;
   --switch-handle-unselected-read-only-border-color: #ffffff;
   --switch-handle-unselected-background-color: #ffffff;
-  --switch-handle-selected-default-border-color: #ffffff;
+  --switch-handle-selected-default-border-color: #0d9488;
   --switch-handle-selected-default-background-color: #ffffff;
-  --switch-handle-selected-hover-border-color: #ffffff;
+  --switch-handle-selected-hover-border-color: #14b8a6;
   --switch-handle-selected-hover-background-color: #ffffff;
-  --switch-handle-selected-focus-border-color: #ffffff;
+  --switch-handle-selected-focus-border-color: #0d9488;
   --switch-handle-selected-focus-background-color: #ffffff;
   --switch-handle-selected-disabled-border-color: #9ca3af;
   --switch-handle-selected-disabled-background-color: #d1d5db;
   --switch-handle-selected-read-only-border-color: #ffffff;
   --switch-handle-selected-read-only-background-color: #ffffff;
+  --switch-mobile-track-width: 56px;
+  --switch-mobile-track-height: 32px;
+  --switch-mobile-handle-width: 32px;
+  --switch-mobile-handle-height: 32px;
+  --switch-desktop-track-width: 40px;
+  --switch-desktop-track-height: 24px;
+  --switch-desktop-handle-width: 24px;
+  --switch-desktop-handle-height: 24px;
+  --switch-border-radius: 16px;
+  --switch-red: #e51717;
   --tag-font-family: IBM Plex Sans;
   --tag-font-weight: 400;
   --tag-border-radius: 100px;
