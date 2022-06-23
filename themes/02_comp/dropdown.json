@@ -166,7 +166,7 @@
         "type": "color"
       },
       "font-color": {
-        "value": "{semantic.color.inputs.selected.default.text-color}",
+        "value": "{semantic.color.inputs.default.text-color}",
         "type": "color"
       },
       "icon-color": {
@@ -184,7 +184,7 @@
         "type": "color"
       },
       "font-color": {
-        "value": "{semantic.color.inputs.selected.default.text-color}",
+        "value": "{semantic.color.inputs.default.text-color}",
         "type": "color"
       },
       "icon-color": {

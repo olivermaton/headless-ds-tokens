@@ -132,10 +132,6 @@
               "value": "{color.primary.500}",
               "type": "color"
             },
-            "text-color": {
-              "value": "{color.black.100}",
-              "type": "color"
-            },
             "icon-color": {
               "value": "{color.white}",
               "type": "color"
@@ -170,6 +166,12 @@
             }
           }
         },
+        "default": {
+          "text-color": {
+            "value": "{color.black.100}",
+            "type": "color"
+          }
+        },
         "input-field": {
           "default": {
             "border-color": {
@@ -202,23 +204,21 @@
         }
       },
       "feedback": {
-        "default": {
-          "border-color": {
-            "value": "{color.black.100}",
-            "type": "color"
-          },
-          "icon-color": {
-            "value": "{semantic.neutral.fg}",
-            "type": "color"
-          },
-          "background-color": {
-            "value": "{color.black.100}",
-            "type": "color"
-          },
-          "font-color": {
-            "value": "{color.white}",
-            "type": "color"
-          }
+        "border-color": {
+          "value": "{color.black.100}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.neutral.fg}",
+          "type": "color"
+        },
+        "background-color": {
+          "value": "{color.black.100}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{color.white}",
+          "type": "color"
         }
       },
       "typography": {
@@ -360,6 +360,10 @@
         "type": "fontFamilies"
       },
       "typography": {
+        "value": "{font-family.sans-serif}",
+        "type": "fontFamilies"
+      },
+      "feedback": {
         "value": "{font-family.sans-serif}",
         "type": "fontFamilies"
       }
