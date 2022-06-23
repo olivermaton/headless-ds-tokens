@@ -29,7 +29,7 @@
             "type": "lineHeights"
         },
         "font-color": {
-            "value": "{semantic.color.feedback.default.background-color}",
+            "value": "{semantic.color.feedback.default.font-color}",
             "type": "color"
         },
         "background-color": {

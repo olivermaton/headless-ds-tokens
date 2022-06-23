@@ -215,7 +215,7 @@
             "value": "{color.black.100}",
             "type": "color"
           },
-          "text-color": {
+          "font-color": {
             "value": "{color.white}",
             "type": "color"
           }
