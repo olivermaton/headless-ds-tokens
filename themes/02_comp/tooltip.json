@@ -51,6 +51,10 @@
     "padding-left": {
       "value": "{semantic.spacing.feedback.padding-left}",
       "type": "spacing"
+    },
+    "shadow": {
+      "value": "{semantic.ui.shadow}",
+      "type": "boxShadow"
     }
   }
 }
