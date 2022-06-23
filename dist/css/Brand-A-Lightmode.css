@@ -813,6 +813,7 @@
   --menu-item-sans-serif-font-family: Satoshi Variable;
   --menu-item-regular-font-weight: 400;
   --menu-item-border-width: 2px;
+  --menu-item-border-radius: 100px;
   --radio-label-font-family: Satoshi Variable;
   --radio-label-font-size: 16px;
   --radio-label-font-weight: 400;
