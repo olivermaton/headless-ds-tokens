@@ -855,7 +855,7 @@
   --switch-label-disabled: #6b7280;
   --switch-label-font-weight: 400;
   --switch-label-red: #e90303;
-  --switch-track-unselected-default-background-color: #323232;
+  --switch-track-unselected-default-background-color: #1A1A1A;
   --switch-track-unselected-default-red: #d61616;
   --switch-track-unselected-hover-border-color: #1A1A1A;
   --switch-track-unselected-focus-background-color: #1A1A1A;
@@ -869,7 +869,7 @@
   --switch-track-selected-disabled-border-color: #6b7280;
   --switch-track-selected-read-only-border-color: #1A1A1A;
   --switch-handle-border-width: 1px;
-  --switch-handle-unselected-default-border-color: #D12129;
+  --switch-handle-unselected-default-border-color: #1A1A1A;
   --switch-handle-unselected-hover-border-color: #1A1A1A;
   --switch-handle-unselected-focus-border-color: #1A1A1A;
   --switch-handle-unselected-disabled-border-color: #6b7280;

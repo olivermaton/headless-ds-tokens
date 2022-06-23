@@ -869,7 +869,7 @@
   --switch-track-selected-disabled-border-color: #a3a3a3;
   --switch-track-selected-read-only-border-color: #222222;
   --switch-handle-border-width: 1px;
-  --switch-handle-unselected-default-border-color: #0d9488;
+  --switch-handle-unselected-default-border-color: #222222;
   --switch-handle-unselected-hover-border-color: #222222;
   --switch-handle-unselected-focus-border-color: #222222;
   --switch-handle-unselected-disabled-border-color: #a3a3a3;
