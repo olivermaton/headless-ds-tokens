@@ -856,20 +856,6 @@
         }
       },
       "feedback": {
-        "default": {
-          "border-color": {
-            "value": "{semantic.bg.surface}",
-            "type": "color"
-          },
-          "font-color": {
-            "value": "{semantic.fg.default}",
-            "type": "color"
-          },
-          "background-color": {
-            "value": "{semantic.bg.surface}",
-            "type": "color"
-          }
-        },
         "info": {
           "border-color": {
             "value": "{semantic.info.fg}",
