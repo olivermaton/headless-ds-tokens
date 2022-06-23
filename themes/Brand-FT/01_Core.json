@@ -162,7 +162,7 @@
     }
   },
   "font-family": {
-    "sans": {
+    "sans-serif": {
       "value": "Inter",
       "type": "fontFamilies"
     },
