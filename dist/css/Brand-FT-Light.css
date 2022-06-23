@@ -922,6 +922,7 @@
   --switch-label-red: #e90303;
   --switch-track-unselected-default-background-color: #ffffff;
   --switch-track-unselected-default-red: #d61616;
+  --switch-track-unselected-default-border-color: #18A0FB;
   --switch-track-unselected-hover-border-color: #e0e0e0;
   --switch-track-unselected-focus-background-color: #e0e0e0;
   --switch-track-unselected-disabled-background-color: #9e9e9e;
