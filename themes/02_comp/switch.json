@@ -38,7 +38,7 @@
       "unselected": {
         "default": {
           "background-color": {
-            "value": "{semantic.color.inputs.default.border-color}",
+            "value": "{semantic.color.inputs.default.background-color}",
             "type": "color"
           },
           "red": {
@@ -120,7 +120,7 @@
       "unselected": {
         "default": {
           "border-color": {
-            "value": "{semantic.color.inputs.default.border-color}",
+            "value": "{semantic.color.inputs.selected.default.border-color}",
             "type": "color"
           }
         },
