@@ -615,7 +615,7 @@
   --checkbox-label-font-family: Inter;
   --checkbox-label-font-size: 11px;
   --checkbox-label-font-weight: 500;
-  --checkbox-label-default-font-color: #616161;
+  --checkbox-label-default-font-color: #212121;
   --checkbox-label-error-font-color: #f87171;
   --checkbox-width: 18px;
   --checkbox-height: 18px;
@@ -696,7 +696,7 @@
   --dropdown-font-family: Inter;
   --dropdown-default-border-color: #e0e0e0;
   --dropdown-default-background-color: #ffffff;
-  --dropdown-default-font-color: #616161;
+  --dropdown-default-font-color: #212121;
   --dropdown-default-icon-color: #616161;
   --dropdown-hover-border-color: #e0e0e0;
   --dropdown-hover-background-color: #ffffff;
@@ -721,7 +721,7 @@
   --field-label-font-family: Inter;
   --field-label-font-weight: 500;
   --field-label-disabled-text-color: #9e9e9e;
-  --field-label-default-text-color: #616161;
+  --field-label-default-text-color: #212121;
   --heading-xs-font-size: 11px;
   --heading-s-font-size: 18px;
   --heading-m-font-size: 22px;
@@ -742,7 +742,7 @@
   --heading-line-height: 120%;
   --heading-text-color: #616161;
   --display-line-height: 100%;
-  --help-text-default-text-color: #616161;
+  --help-text-default-text-color: #212121;
   --help-text-default-icon-color: #616161;
   --help-text-error-text-color: #f87171;
   --help-text-error-icon-color: #f87171;
@@ -852,7 +852,7 @@
   --link-disabled-font-color: #9e9e9e;
   --red: #ca3d3d;
   --menu-item-default-border-color: #e0e0e0;
-  --menu-item-default-text-color: #616161;
+  --menu-item-default-text-color: #212121;
   --menu-item-default-icon-color: #616161;
   --menu-item-default-background-color: #ffffff;
   --menu-item-disabled-background-color: #e0e0e0;
@@ -881,7 +881,7 @@
   --radio-label-font-family: Inter;
   --radio-label-font-size: 11px;
   --radio-label-font-weight: 500;
-  --radio-label-font-color: #616161;
+  --radio-label-font-color: #212121;
   --radio-button-border-width: 1px;
   --radio-button-border-radius: 24px;
   --radio-button-height: 18px;
@@ -916,7 +916,7 @@
   --radio-checkmark-selected-disabled-border-color: #9e9e9e;
   --switch-label-font-family: Inter;
   --switch-label-font-size: 11px;
-  --switch-label-default: #616161;
+  --switch-label-default: #212121;
   --switch-label-disabled: #9e9e9e;
   --switch-label-font-weight: 500;
   --switch-label-red: #e90303;
@@ -1100,8 +1100,8 @@
   --text-field-xl-padding-left: 16px;
   --text-field-xl-padding-right: 16px;
   --text-field-xl-space-between: 8px;
-  --text-field-field-text-filled-text-color: #616161;
-  --text-field-field-text-placeholder-text-color: #616161;
+  --text-field-field-text-filled-text-color: #212121;
+  --text-field-field-text-placeholder-text-color: #212121;
   --text-field-field-text-disabled-text-color: #9e9e9e;
   --text-field-input-field-border-radius: 4px;
   --text-field-input-field-border-width: 1px;
@@ -1293,11 +1293,11 @@
   --semantic-color-actions-disabled-text-color: #9e9e9e;
   --semantic-color-actions-disabled-border-color: #e0e0e0;
   --semantic-color-inputs-default-border-color: #e0e0e0;
-  --semantic-color-inputs-default-text-color: #616161;
+  --semantic-color-inputs-default-text-color: #212121;
   --semantic-color-inputs-default-icon-color: #616161;
   --semantic-color-inputs-default-background-color: #ffffff;
   --semantic-color-inputs-selected-default-border-color: #18A0FB;
-  --semantic-color-inputs-selected-default-text-color: #212121;
+  --semantic-color-inputs-selected-default-text-color: #0ea5e9;
   --semantic-color-inputs-selected-default-icon-color: #FFFFFF;
   --semantic-color-inputs-selected-default-background-color: #18A0FB;
   --semantic-color-inputs-selected-hover-border-color: #38bdf8;
