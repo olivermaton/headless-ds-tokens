@@ -257,10 +257,6 @@
     "border-radius": {
       "value": "{semantic.border.radius.large}",
       "type": "borderRadius"
-    },
-    "space-between": {
-      "value": "{semantic.spacing.inputs.space-between}",
-      "type": "sizing"
     }
   },
   "switch-red": {
