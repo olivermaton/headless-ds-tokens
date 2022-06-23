@@ -9,7 +9,7 @@
       "type": "borderWidth"
     },
     "border-color": {
-      "value": "{semantic.color.feedback.neutral.border-color}",
+      "value": "{semantic.color.feedback.default.border-color}",
       "type": "color"
     },
     "font-family": {
@@ -29,11 +29,11 @@
       "type": "lineHeights"
     },
     "font-color": {
-      "value": "{semantic.color.feedback.neutral.background-color}",
+      "value": "{semantic.color.feedback.default.font-color}",
       "type": "color"
     },
     "background-color": {
-      "value": "{semantic.color.feedback.neutral.border-color}",
+      "value": "{semantic.color.feedback.default.background-color}",
       "type": "color"
     },
     "padding-bottom": {
