@@ -204,21 +204,23 @@
         }
       },
       "feedback": {
-        "border-color": {
-          "value": "{color.black.100}",
-          "type": "color"
-        },
-        "icon-color": {
-          "value": "{semantic.neutral.fg}",
-          "type": "color"
-        },
-        "background-color": {
-          "value": "{color.black.100}",
-          "type": "color"
-        },
-        "text-color": {
-          "value": "{color.white}",
-          "type": "color"
+        "default": {
+          "border-color": {
+            "value": "{color.black.100}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.neutral.fg}",
+            "type": "color"
+          },
+          "background-color": {
+            "value": "{color.black.100}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{color.white}",
+            "type": "color"
+          }
         }
       },
       "typography": {
@@ -279,6 +281,24 @@
         "space-between": {
           "value": "{itemSpacing.sm}",
           "type": "spacing"
+        }
+      },
+      "feedback": {
+          "padding-top": {
+              "value": "{space.100}",
+              "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{space.100}",
+            "type": "spacing"
+        },
+        "padding-bottom": {
+            "value": "{space.100}",
+            "type": "spacing"
+        },
+        "padding-left": {
+            "value": "{space.100}",
+            "type": "spacing"
         }
       }
     },
