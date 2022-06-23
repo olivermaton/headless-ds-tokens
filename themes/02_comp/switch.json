@@ -32,6 +32,10 @@
           "background-color": {
             "value": "{semantic.color.inputs.default.border-color}",
             "type": "color"
+          },
+          "red": {
+            "value": "#d61616",
+            "type": "color"
           }
         },
         "hover": {
