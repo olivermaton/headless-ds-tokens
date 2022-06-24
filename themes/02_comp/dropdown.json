@@ -247,6 +247,16 @@
         "value": "{semantic.spacing.inputs.small.padding-top}",
         "type": "spacing"
       }
+    },
+    "default": {
+      "background-color": {
+        "value": "{semantic.color.inputs.default.text-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.inputs.default.border-color}",
+        "type": "color"
+      }
     }
   }
 }
