@@ -1,0 +1,20 @@
+{
+  "card": {
+    "value": {
+      "width": "350",
+      "fill": "{semantic.bg.surface}",
+      "borderRadius": "{semantic.border-radius.ui-card}",
+      "paddingBottom": "{semantic.spacing.ui.xxl.space-around}",
+      "boxShadow": "{semantic.ui.shadow}",
+      "itemSpacing": "{semantic.spacing.ui.m.space-between}"
+    },
+    "type": "composition"
+  },
+  "card-body": {
+    "value": {
+      "itemSpacing": "{semantic.spacing.ui.s.space-between}",
+      "horizontalPadding": "{semantic.spacing.ui.xxl.space-around}"
+    },
+    "type": "composition"
+  }
+}
