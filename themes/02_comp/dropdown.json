@@ -228,6 +228,10 @@
       "padding-bottom": {
         "value": "{semantic.spacing.inputs.small.padding-top}",
         "type": "spacing"
+      },
+      "font-weight": {
+        "value": "{semantic.font-weight.actions}",
+        "type": "fontWeights"
       }
     },
     "placeholder": {
@@ -261,6 +265,12 @@
     "font-family": {
       "value": "{semantic.font-family.inputs}",
       "type": "fontFamilies"
+    },
+    "palceholder": {
+      "font-weight": {
+        "value": "{semantic.font-weight.inputs}",
+        "type": "fontWeights"
+      }
     }
   }
 }
