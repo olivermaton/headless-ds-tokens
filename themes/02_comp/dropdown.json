@@ -257,6 +257,10 @@
         "value": "{semantic.color.inputs.default.border-color}",
         "type": "color"
       }
+    },
+    "font-family": {
+      "value": "{semantic.font-family.inputs}",
+      "type": "fontFamilies"
     }
   }
 }
