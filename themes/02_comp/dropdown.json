@@ -209,6 +209,12 @@
         "value": "{semantic.color.inputs.disabled.icon-color}",
         "type": "color"
       }
+    },
+    "field": {
+      "width": {
+        "value": "{semantic.sizing.inputs.input-field.width}",
+        "type": "sizing"
+      }
     }
   },
   "menu": {
