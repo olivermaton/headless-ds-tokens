@@ -439,7 +439,7 @@
       },
       "inputs": {
         "small": {
-          "value": "{semantic.component.small}",
+          "value": "{size.400}",
           "type": "sizing"
         },
         "medium": {
