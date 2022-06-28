@@ -74,7 +74,7 @@
         "type": "sizing"
       },
       "font-size": {
-        "value": "{semantic.font-size.inputs.l}",
+        "value": "{semantic.font-size.inputs.m}",
         "type": "fontSizes"
       }
     },
@@ -100,7 +100,7 @@
         "type": "sizing"
       },
       "font-size": {
-        "value": "{semantic.font-size.inputs.xl}",
+        "value": "{semantic.font-size.inputs.m}",
         "type": "fontSizes"
       }
     },
