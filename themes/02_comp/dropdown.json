@@ -22,7 +22,7 @@
         "type": "sizing"
       },
       "font-size": {
-        "value": "{semantic.font-size.inputs.s}",
+        "value": "{semantic.font-size.inputs.m}",
         "type": "fontSizes"
       }
     },
