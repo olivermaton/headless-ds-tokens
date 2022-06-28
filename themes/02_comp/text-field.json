@@ -10,7 +10,7 @@
         "type": "sizing"
       },
       "font-size": {
-        "value": "{semantic.font-size.inputs.m}",
+        "value": "{semantic.font-size.inputs.s}",
         "type": "fontSizes"
       },
       "padding-left": {
@@ -88,7 +88,7 @@
         "type": "sizing"
       },
       "font-size": {
-        "value": "{semantic.font-size.inputs.m}",
+        "value": "{semantic.font-size.inputs.xl}",
         "type": "fontSizes"
       },
       "padding-left": {
