@@ -32,7 +32,8 @@
       "Brand-A/01_Light": "enabled",
       "Brand-A/02_Dark": "disabled",
       "sizing": "disabled",
-      "empty": "disabled"
+      "empty": "disabled",
+      "token": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -69,7 +70,8 @@
       "Brand-A/01_Light": "enabled",
       "Brand-A/02_Dark": "enabled",
       "sizing": "disabled",
-      "empty": "disabled"
+      "empty": "disabled",
+      "token": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -106,7 +108,8 @@
       "Brand-A/01_Light": "disabled",
       "Brand-A/02_Dark": "disabled",
       "sizing": "disabled",
-      "empty": "disabled"
+      "empty": "disabled",
+      "token": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -143,7 +146,8 @@
       "Brand-A/01_Light": "disabled",
       "Brand-A/02_Dark": "disabled",
       "sizing": "disabled",
-      "empty": "disabled"
+      "empty": "disabled",
+      "token": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -180,7 +184,8 @@
       "Brand-C/01_Light": "enabled",
       "Brand-C/02_Dark": "disabled",
       "sizing": "disabled",
-      "empty": "disabled"
+      "empty": "disabled",
+      "token": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -217,7 +222,8 @@
       "Brand-C/01_Light": "enabled",
       "Brand-C/02_Dark": "enabled",
       "sizing": "disabled",
-      "empty": "disabled"
+      "empty": "disabled",
+      "token": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -254,7 +260,8 @@
       "Brand-C/01_Light": "disabled",
       "Brand-C/02_Dark": "disabled",
       "sizing": "disabled",
-      "empty": "disabled"
+      "empty": "disabled",
+      "token": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -291,7 +298,8 @@
       "Brand-I/01_Light": "enabled",
       "Brand-I/02_Dark": "enabled",
       "sizing": "disabled",
-      "empty": "disabled"
+      "empty": "disabled",
+      "token": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -333,7 +341,8 @@
       "Brand-I/01_Light": "disabled",
       "Brand-I/02_Dark": "disabled",
       "empty": "disabled",
-      "sizing": "disabled"
+      "sizing": "disabled",
+      "token": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -373,7 +382,8 @@
       "empty": "disabled",
       "02_comp/dropdown": "enabled",
       "02_comp/tooltip": "enabled",
-      "02_comp/toast": "enabled"
+      "02_comp/toast": "enabled",
+      "token": "disabled"
     },
     "$figmaStyleReferences": {}
   }
