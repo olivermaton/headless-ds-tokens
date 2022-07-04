@@ -129,7 +129,7 @@
         "value": "{semantic.color.inputs.default.background-color}",
         "type": "color"
       },
-      "font-color": {
+      "text-color": {
         "value": "{semantic.color.inputs.default.text-color}",
         "type": "color"
       },
@@ -147,7 +147,7 @@
         "value": "{semantic.color.inputs.hover.background-color}",
         "type": "color"
       },
-      "font-color": {
+      "text-color": {
         "value": "{semantic.color.inputs.hover.text-color}",
         "type": "color"
       },
@@ -165,7 +165,7 @@
         "value": "{semantic.color.inputs.selected.default.background-color}",
         "type": "color"
       },
-      "font-color": {
+      "text-color": {
         "value": "{semantic.color.inputs.default.text-color}",
         "type": "color"
       },
@@ -183,7 +183,7 @@
         "value": "{semantic.color.inputs.focus.background-color}",
         "type": "color"
       },
-      "font-color": {
+      "text-color": {
         "value": "{semantic.color.inputs.default.text-color}",
         "type": "color"
       },
@@ -201,7 +201,7 @@
         "value": "{semantic.color.inputs.disabled.background-color}",
         "type": "color"
       },
-      "font-color": {
+      "text-color": {
         "value": "{semantic.color.inputs.disabled.text-color}",
         "type": "color"
       },
