@@ -50,7 +50,7 @@
         "type": "color"
       },
       "text-color": {
-        "value": "{semantic.color.typography.default}",
+        "value": "{semantic.color.feedback.warning.text-color}",
         "type": "color"
       }
     },
@@ -68,7 +68,7 @@
         "type": "color"
       },
       "text-color": {
-        "value": "{semantic.color.typography.default}",
+        "value": "{semantic.color.feedback.success.text-color}",
         "type": "color"
       }
     },
@@ -86,7 +86,7 @@
         "type": "color"
       },
       "text-color": {
-        "value": "{semantic.color.typography.default}",
+        "value": "{semantic.color.feedback.error.text-color}",
         "type": "color"
       }
     }
