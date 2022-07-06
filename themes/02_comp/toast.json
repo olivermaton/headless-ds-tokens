@@ -109,6 +109,10 @@
     "border-width": {
       "value": "{semantic.border-width.feedback}",
       "type": "borderWidth"
+    },
+    "border-radius": {
+      "value": "{semantic.border-radius.feedback}",
+      "type": "borderRadius"
     }
   }
 }
