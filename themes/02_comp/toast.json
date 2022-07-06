@@ -81,8 +81,8 @@
         "value": "{semantic.color.feedback.error.background-color}",
         "type": "color"
       },
-      "icon-color": {
-        "value": "{semantic.color.feedback.error.icon-color}",
+      "text-color": {
+        "value": "{semantic.color.feedback.error.text-color}",
         "type": "color"
       }
     },
