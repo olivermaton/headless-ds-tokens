@@ -9,12 +9,12 @@
         "value": "{semantic.color.feedback.neutral.background-color}",
         "type": "color"
       },
-      "icon-color": {
+      "text-color": {
         "value": "{semantic.color.feedback.neutral.text-color}",
         "type": "color"
       },
-      "text-color": {
-        "value": "{semantic.color.typography.default}",
+      "icon-color": {
+        "value": "{semantic.color.feedback.neutral.icon-color}",
         "type": "color"
       }
     },
