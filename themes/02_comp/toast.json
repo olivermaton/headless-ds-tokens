@@ -105,6 +105,10 @@
     "font-family": {
       "value": "{semantic.font-family.feedback}",
       "type": "fontFamilies"
+    },
+    "border-width": {
+      "value": "{semantic.border-width.feedback}",
+      "type": "borderWidth"
     }
   }
 }
