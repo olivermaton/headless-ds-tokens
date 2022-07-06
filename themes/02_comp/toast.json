@@ -113,6 +113,10 @@
     "border-radius": {
       "value": "{semantic.border-radius.feedback}",
       "type": "borderRadius"
+    },
+    "icon-size": {
+      "value": "{semantic.sizing.status.m.icon-size}",
+      "type": "sizing"
     }
   }
 }
