@@ -101,6 +101,10 @@
     "font-weight": {
       "value": "{semantic.font-weight.feedback.regular}",
       "type": "fontWeights"
+    },
+    "font-family": {
+      "value": "{semantic.font-family.feedback}",
+      "type": "fontFamilies"
     }
   }
 }
