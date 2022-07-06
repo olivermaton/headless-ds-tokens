@@ -97,6 +97,10 @@
     "line-height": {
       "value": "{semantic.line-height.feedback}",
       "type": "lineHeights"
+    },
+    "font-weight": {
+      "value": "{semantic.font-weight.feedback.regular}",
+      "type": "fontWeights"
     }
   }
 }
