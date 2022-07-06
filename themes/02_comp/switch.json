@@ -13,10 +13,6 @@
         "value": "{semantic.font-family.inputs}",
         "type": "fontFamilies"
       },
-      "font-size": {
-        "value": "{semantic.font-size.inputs.m}",
-        "type": "fontSizes"
-      },
       "default": {
         "value": "{semantic.color.inputs.default.text-color}",
         "type": "color"
@@ -32,6 +28,32 @@
       "red": {
         "value": "#e90303",
         "type": "color"
+      }
+    },
+    "desktop": {
+      "font-size": {
+        "value": "{semantic.font-size.inputs.m}",
+        "type": "fontSizes"
+      },
+      "track": {
+        "width": {
+          "value": "{semantic.component.medium}",
+          "type": "sizing"
+        },
+        "height": {
+          "value": "{semantic.component.extra-small}",
+          "type": "sizing"
+        }
+      },
+      "handle": {
+        "width": {
+          "value": "{semantic.component.extra-small}",
+          "type": "sizing"
+        },
+        "height": {
+          "value": "{semantic.component.extra-small}",
+          "type": "sizing"
+        }
       }
     },
     "track": {
@@ -230,28 +252,10 @@
           "value": "{semantic.component.small}",
           "type": "sizing"
         }
-      }
-    },
-    "desktop": {
-      "track": {
-        "width": {
-          "value": "{semantic.component.medium}",
-          "type": "sizing"
-        },
-        "height": {
-          "value": "{semantic.component.extra-small}",
-          "type": "sizing"
-        }
       },
-      "handle": {
-        "width": {
-          "value": "{semantic.component.extra-small}",
-          "type": "sizing"
-        },
-        "height": {
-          "value": "{semantic.component.extra-small}",
-          "type": "sizing"
-        }
+      "font-size": {
+        "value": "{semantic.font-size.inputs.s}",
+        "type": "fontSizes"
       }
     },
     "border-radius": {
