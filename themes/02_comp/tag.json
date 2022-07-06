@@ -16,6 +16,96 @@
       "value": "{semantic.spacing.status.space-between}",
       "type": "spacing"
     },
+    "s": {
+      "text-size": {
+        "value": "{semantic.font-size.status.s}",
+        "type": "fontSizes"
+      },
+      "height": {
+        "value": "{semantic.sizing.status.s.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{semantic.sizing.status.s.icon-size}",
+        "type": "sizing"
+      },
+      "padding-right": {
+        "value": "{semantic.spacing.status.small.padding-right}",
+        "type": "spacing"
+      },
+      "padding-left": {
+        "value": "{semantic.spacing.status.small.padding-left}",
+        "type": "spacing"
+      }
+    },
+    "m": {
+      "text-size": {
+        "value": "{semantic.font-size.status.m}",
+        "type": "fontSizes"
+      },
+      "height": {
+        "value": "{semantic.sizing.status.m.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{semantic.sizing.status.m.icon-size}",
+        "type": "sizing"
+      },
+      "padding-right": {
+        "value": "{semantic.spacing.status.medium.padding-right}",
+        "type": "spacing"
+      },
+      "padding-left": {
+        "value": "{semantic.spacing.status.medium.padding-left}",
+        "type": "spacing"
+      }
+    },
+    "l": {
+      "text-size": {
+        "value": "{semantic.font-size.status.l}",
+        "type": "fontSizes"
+      },
+      "height": {
+        "value": "{semantic.sizing.status.l.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{semantic.sizing.status.l.icon-size}",
+        "type": "sizing"
+      },
+      "padding-right": {
+        "value": "{semantic.spacing.status.large.padding-right}",
+        "type": "spacing"
+      },
+      "padding-left": {
+        "value": "{semantic.spacing.status.large.padding-left}",
+        "type": "spacing"
+      }
+    },
+    "xl": {
+      "text-size": {
+        "value": "{semantic.font-size.status.xl}",
+        "type": "fontSizes"
+      },
+      "height": {
+        "value": "{semantic.sizing.status.xl.height}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "value": "{semantic.sizing.status.xl.icon-size}",
+        "type": "sizing"
+      },
+      "padding-right": {
+        "value": "{semantic.spacing.status.extra-large.padding-right}",
+        "type": "spacing"
+      },
+      "padding-left": {
+        "value": "{semantic.spacing.status.extra-large.padding-left}",
+        "type": "spacing"
+      }
+    }
+  },
+  "toast": {
     "solid": {
       "info": {
         "background-color": {
@@ -342,94 +432,6 @@
           "value": "{color.neutrals.transparent}",
           "type": "color"
         }
-      }
-    },
-    "s": {
-      "text-size": {
-        "value": "{semantic.font-size.status.s}",
-        "type": "fontSizes"
-      },
-      "height": {
-        "value": "{semantic.sizing.status.s.height}",
-        "type": "sizing"
-      },
-      "icon-size": {
-        "value": "{semantic.sizing.status.s.icon-size}",
-        "type": "sizing"
-      },
-      "padding-right": {
-        "value": "{semantic.spacing.status.small.padding-right}",
-        "type": "spacing"
-      },
-      "padding-left": {
-        "value": "{semantic.spacing.status.small.padding-left}",
-        "type": "spacing"
-      }
-    },
-    "m": {
-      "text-size": {
-        "value": "{semantic.font-size.status.m}",
-        "type": "fontSizes"
-      },
-      "height": {
-        "value": "{semantic.sizing.status.m.height}",
-        "type": "sizing"
-      },
-      "icon-size": {
-        "value": "{semantic.sizing.status.m.icon-size}",
-        "type": "sizing"
-      },
-      "padding-right": {
-        "value": "{semantic.spacing.status.medium.padding-right}",
-        "type": "spacing"
-      },
-      "padding-left": {
-        "value": "{semantic.spacing.status.medium.padding-left}",
-        "type": "spacing"
-      }
-    },
-    "l": {
-      "text-size": {
-        "value": "{semantic.font-size.status.l}",
-        "type": "fontSizes"
-      },
-      "height": {
-        "value": "{semantic.sizing.status.l.height}",
-        "type": "sizing"
-      },
-      "icon-size": {
-        "value": "{semantic.sizing.status.l.icon-size}",
-        "type": "sizing"
-      },
-      "padding-right": {
-        "value": "{semantic.spacing.status.large.padding-right}",
-        "type": "spacing"
-      },
-      "padding-left": {
-        "value": "{semantic.spacing.status.large.padding-left}",
-        "type": "spacing"
-      }
-    },
-    "xl": {
-      "text-size": {
-        "value": "{semantic.font-size.status.xl}",
-        "type": "fontSizes"
-      },
-      "height": {
-        "value": "{semantic.sizing.status.xl.height}",
-        "type": "sizing"
-      },
-      "icon-size": {
-        "value": "{semantic.sizing.status.xl.icon-size}",
-        "type": "sizing"
-      },
-      "padding-right": {
-        "value": "{semantic.spacing.status.extra-large.padding-right}",
-        "type": "spacing"
-      },
-      "padding-left": {
-        "value": "{semantic.spacing.status.extra-large.padding-left}",
-        "type": "spacing"
       }
     }
   }

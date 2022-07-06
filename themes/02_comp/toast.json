@@ -1,5 +1,5 @@
 {
-  "tag": {
+  "toast": {
     "neutral": {
       "border-color": {
         "value": "{semantic.color.feedback.neutral.border-color}",
@@ -10,7 +10,7 @@
         "type": "color"
       },
       "icon-color": {
-        "value": "{semantic.color.feedback.neutral.icon-color}",
+        "value": "{semantic.color.feedback.neutral.text-color}",
         "type": "color"
       },
       "text-color": {
