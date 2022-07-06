@@ -89,6 +89,10 @@
         "value": "{semantic.color.feedback.error.text-color}",
         "type": "color"
       }
+    },
+    "font-size": {
+      "value": "{semantic.font-size.feedback.s}",
+      "type": "fontSizes"
     }
   }
 }
