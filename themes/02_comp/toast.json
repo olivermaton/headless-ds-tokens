@@ -22,18 +22,6 @@
       "background-color": {
         "value": "{semantic.color.feedback.info.background-color}",
         "type": "color"
-      },
-      "icon-color": {
-        "value": "{semantic.color.feedback.info.icon-color}",
-        "type": "color"
-      },
-      "border-color": {
-        "value": "{semantic.color.feedback.info.border-color}",
-        "type": "color"
-      },
-      "text-color": {
-        "value": "{semantic.color.typography.default}",
-        "type": "color"
       }
     },
     "warning": {
