@@ -93,6 +93,10 @@
     "font-size": {
       "value": "{semantic.font-size.feedback.s}",
       "type": "fontSizes"
+    },
+    "line-height": {
+      "value": "{semantic.line-height.feedback}",
+      "type": "lineHeights"
     }
   }
 }
