@@ -84,10 +84,6 @@
       "icon-color": {
         "value": "{semantic.color.feedback.error.icon-color}",
         "type": "color"
-      },
-      "text-color": {
-        "value": "{semantic.color.feedback.error.text-color}",
-        "type": "color"
       }
     },
     "font-size": {
