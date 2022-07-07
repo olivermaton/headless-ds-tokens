@@ -95,7 +95,7 @@
       }
     }
   },
-  "token": {
+  "color-token": {
     "width": {
       "value": "{semantic.sizing.inputs.icon-size.medium}",
       "type": "sizing"
