@@ -123,6 +123,10 @@
         "value": "{semantic.color.typography.default}",
         "type": "color"
       }
+    },
+    "line-height": {
+      "value": "{semantic.line-height.feedback}",
+      "type": "lineHeights"
     }
   }
 }
