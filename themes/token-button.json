@@ -117,7 +117,7 @@
   },
   "color": {
     "border-radius": {
-      "value": "{semantic.border.radius.round}",
+      "value": "{semantic.border.radius.large}",
       "type": "borderRadius"
     }
   },
