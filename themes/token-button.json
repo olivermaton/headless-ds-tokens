@@ -115,9 +115,11 @@
       }
     }
   },
-  "border-radius": {
-    "value": "{semantic.border.radius.round}",
-    "type": "borderRadius"
+  "color": {
+    "border-radius": {
+      "value": "{semantic.border.radius.round}",
+      "type": "borderRadius"
+    }
   },
   "border-wdith": {
     "value": "{semantic.border-width.inputs}",
@@ -147,6 +149,12 @@
     "font-family": {
       "value": "{semantic.font-family.actions}",
       "type": "fontFamilies"
+    }
+  },
+  "button": {
+    "border-radius": {
+      "value": "{semantic.border-radius.actions}",
+      "type": "borderRadius"
     }
   }
 }
