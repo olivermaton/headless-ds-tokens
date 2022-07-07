@@ -33,7 +33,7 @@
       "Brand-A/02_Dark": "disabled",
       "sizing": "disabled",
       "empty": "disabled",
-      "token": "disabled"
+      "token-button": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -71,7 +71,7 @@
       "Brand-A/02_Dark": "enabled",
       "sizing": "disabled",
       "empty": "disabled",
-      "token": "disabled"
+      "token-button": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -109,7 +109,7 @@
       "Brand-A/02_Dark": "disabled",
       "sizing": "disabled",
       "empty": "disabled",
-      "token": "disabled"
+      "token-button": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -147,7 +147,7 @@
       "Brand-A/02_Dark": "disabled",
       "sizing": "disabled",
       "empty": "disabled",
-      "token": "disabled"
+      "token-button": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -185,7 +185,7 @@
       "Brand-C/02_Dark": "disabled",
       "sizing": "disabled",
       "empty": "disabled",
-      "token": "disabled"
+      "token-button": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -223,7 +223,7 @@
       "Brand-C/02_Dark": "enabled",
       "sizing": "disabled",
       "empty": "disabled",
-      "token": "disabled"
+      "token-button": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -261,7 +261,7 @@
       "Brand-C/02_Dark": "disabled",
       "sizing": "disabled",
       "empty": "disabled",
-      "token": "disabled"
+      "token-button": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -299,7 +299,7 @@
       "Brand-I/02_Dark": "enabled",
       "sizing": "disabled",
       "empty": "disabled",
-      "token": "disabled"
+      "token-button": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -342,7 +342,7 @@
       "Brand-I/02_Dark": "disabled",
       "empty": "disabled",
       "sizing": "disabled",
-      "token": "disabled"
+      "token-button": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -383,7 +383,7 @@
       "02_comp/dropdown": "enabled",
       "02_comp/tooltip": "enabled",
       "02_comp/toast": "enabled",
-      "token": "disabled"
+      "token-button": "disabled"
     },
     "$figmaStyleReferences": {}
   }

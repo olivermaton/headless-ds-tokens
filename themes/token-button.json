@@ -1,0 +1,152 @@
+{
+  "default": {
+    "border-color": {
+      "value": "{semantic.color.actions.cta.default.text-color}",
+      "type": "color"
+    },
+    "text-color": {
+      "value": "{semantic.color.actions.cta.default.text-color}",
+      "type": "color"
+    },
+    "background-color": {
+      "value": "{semantic.color.actions.cta.default.background-color}",
+      "type": "color"
+    }
+  },
+  "hover": {
+    "background-color": {
+      "value": "{semantic.color.actions.cta.hover.background-color}",
+      "type": "color"
+    },
+    "text-color": {
+      "value": "{semantic.color.actions.cta.hover.text-color}",
+      "type": "color"
+    }
+  },
+  "light": {
+    "border-color": {
+      "value": "{semantic.color.focus.border-color}",
+      "type": "color"
+    },
+    "background-color": {
+      "value": "{semantic.color.actions.cta.default.background-color}",
+      "type": "color"
+    },
+    "text-color": {
+      "value": "{semantic.color.actions.cta.default.text-color}",
+      "type": "color"
+    }
+  },
+  "active": {
+    "border-color": {
+      "value": "{semantic.color.actions.cta.active.border-color}",
+      "type": "color"
+    },
+    "base": {
+      "border-color": {
+        "value": "{semantic.color.actions.cta.active.text-color}",
+        "type": "color"
+      },
+      "background-color": {
+        "value": "{semantic.color.actions.cta.active.background-color}",
+        "type": "color"
+      }
+    },
+    "text-color": {
+      "value": "{semantic.color.actions.cta.active.text-color}",
+      "type": "color"
+    }
+  },
+  "selected": {
+    "border-color": {
+      "value": "{semantic.color.actions.cta.active.border-color}",
+      "type": "color"
+    },
+    "base": {
+      "border-color": {
+        "value": "{semantic.color.focus.border-color}",
+        "type": "color"
+      },
+      "background-color": {
+        "value": "{semantic.color.actions.cta.active.background-color}",
+        "type": "color"
+      }
+    }
+  },
+  "error": {
+    "base": {
+      "background-color": {
+        "value": "{semantic.color.actions.cta.default.background-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.actions.cta.default.text-color}",
+        "type": "color"
+      }
+    },
+    "broke-reference": {
+      "bakcground-color": {
+        "value": "{semantic.color.actions.negative.active.background-color}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{semantic.color.actions.negative.active.text-color}",
+        "type": "color"
+      }
+    }
+  },
+  "token": {
+    "width": {
+      "value": "{semantic.sizing.inputs.icon-size.medium}",
+      "type": "sizing"
+    },
+    "height": {
+      "value": "{semantic.sizing.inputs.icon-size.medium}",
+      "type": "sizing"
+    },
+    "broken-reference": {
+      "width": {
+        "value": "{semantic.sizing.container.large}",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "{semantic.sizing.container.large}",
+        "type": "sizing"
+      }
+    }
+  },
+  "border-radius": {
+    "value": "{semantic.border.radius.round}",
+    "type": "borderRadius"
+  },
+  "border-wdith": {
+    "value": "{semantic.border-width.inputs}",
+    "type": "borderWidth"
+  },
+  "token-name": {
+    "width": {
+      "value": "{semantic.sizing.inputs.large}",
+      "type": "sizing"
+    },
+    "height": {
+      "value": "{semantic.component.extra-small}",
+      "type": "sizing"
+    }
+  },
+  "tokenbutton": {
+    "font-size": {
+      "value": "{semantic.font-size.actions.s}",
+      "type": "fontSizes"
+    },
+    "font-weight": {
+      "value": "{semantic.font-weight.actions}",
+      "type": "fontWeights"
+    }
+  },
+  "tokebutton": {
+    "font-family": {
+      "value": "{semantic.font-family.actions}",
+      "type": "fontFamilies"
+    }
+  }
+}
