@@ -508,16 +508,6 @@
         }
       }
     },
-    "component": {
-      "extra-large": {
-        "value": "{size.300}",
-        "type": "sizing"
-      },
-      "small": {
-        "value": "{size.150}",
-        "type": "sizing"
-      }
-    },
     "ui": {
       "shadow": {
         "value": [
