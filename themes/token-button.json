@@ -156,5 +156,17 @@
       "value": "{semantic.border-radius.actions}",
       "type": "borderRadius"
     }
+  },
+  "token-button": {
+    "name-token": {
+      "width": {
+        "value": "{semantic.component.extra-large}",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "{semantic.component.small}",
+        "type": "sizing"
+      }
+    }
   }
 }
