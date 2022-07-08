@@ -116,6 +116,34 @@
         }
       }
     },
+    "color": {
+      "border-radius": {
+        "value": "{semantic.border.radius.large}",
+        "type": "borderRadius"
+      }
+    },
+    "border-wdith": {
+      "value": "{semantic.border-width.inputs}",
+      "type": "borderWidth"
+    },
+    "font-size": {
+      "value": "{semantic.font-size.actions.s}",
+      "type": "fontSizes"
+    },
+    "font-weight": {
+      "value": "{semantic.font-weight.actions}",
+      "type": "fontWeights"
+    },
+    "font-family": {
+      "value": "{semantic.font-family.actions}",
+      "type": "fontFamilies"
+    },
+    "button": {
+      "border-radius": {
+        "value": "{semantic.border-radius.actions}",
+        "type": "borderRadius"
+      }
+    },
     "name-token": {
       "width": {
         "value": "{semantic.component.extra-large}",
@@ -143,38 +171,6 @@
         "value": "{semantic.spacing.actions.small.padding-bottom}",
         "type": "spacing"
       }
-    }
-  },
-  "color": {
-    "border-radius": {
-      "value": "{semantic.border.radius.large}",
-      "type": "borderRadius"
-    }
-  },
-  "border-wdith": {
-    "value": "{semantic.border-width.inputs}",
-    "type": "borderWidth"
-  },
-  "tokenbutton": {
-    "font-size": {
-      "value": "{semantic.font-size.actions.s}",
-      "type": "fontSizes"
-    },
-    "font-weight": {
-      "value": "{semantic.font-weight.actions}",
-      "type": "fontWeights"
-    }
-  },
-  "tokebutton": {
-    "font-family": {
-      "value": "{semantic.font-family.actions}",
-      "type": "fontFamilies"
-    }
-  },
-  "button": {
-    "border-radius": {
-      "value": "{semantic.border-radius.actions}",
-      "type": "borderRadius"
     }
   }
 }
