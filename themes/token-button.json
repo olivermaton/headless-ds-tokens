@@ -38,15 +38,19 @@
     }
   },
   "active": {
-    "border-color": {
-      "value": "{semantic.color.actions.cta.active.border-color}",
-      "type": "color"
-    },
-    "base": {
+    "color-token": {
       "border-color": {
-        "value": "{semantic.color.actions.cta.active.text-color}",
+        "value": "{semantic.color.actions.cta.active.border-color}",
         "type": "color"
       },
+      "base": {
+        "border-color": {
+          "value": "{semantic.color.actions.cta.active.text-color}",
+          "type": "color"
+        }
+      }
+    },
+    "base": {
       "background-color": {
         "value": "{semantic.color.actions.cta.active.background-color}",
         "type": "color"
@@ -55,6 +59,12 @@
     "text-color": {
       "value": "{semantic.color.actions.cta.active.text-color}",
       "type": "color"
+    },
+    "name-token": {
+      "border-color": {
+        "value": "{semantic.color.actions.cta.focus.border-color}",
+        "type": "color"
+      }
     }
   },
   "selected": {
