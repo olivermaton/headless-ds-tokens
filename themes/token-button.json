@@ -125,16 +125,6 @@
     "value": "{semantic.border-width.inputs}",
     "type": "borderWidth"
   },
-  "token-name": {
-    "width": {
-      "value": "{semantic.sizing.inputs.large}",
-      "type": "sizing"
-    },
-    "height": {
-      "value": "{semantic.component.extra-small}",
-      "type": "sizing"
-    }
-  },
   "tokenbutton": {
     "font-size": {
       "value": "{semantic.font-size.actions.s}",
