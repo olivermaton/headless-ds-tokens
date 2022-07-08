@@ -50,11 +50,9 @@
         }
       }
     },
-    "base": {
-      "background-color": {
-        "value": "{semantic.color.actions.cta.active.background-color}",
-        "type": "color"
-      }
+    "background-color": {
+      "value": "{semantic.color.actions.cta.active.background-color}",
+      "type": "color"
     },
     "text-color": {
       "value": "{semantic.color.actions.cta.active.text-color}",
