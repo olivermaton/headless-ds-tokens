@@ -95,23 +95,53 @@
       }
     }
   },
-  "color-token": {
-    "width": {
-      "value": "{semantic.sizing.inputs.icon-size.medium}",
-      "type": "sizing"
-    },
-    "height": {
-      "value": "{semantic.sizing.inputs.icon-size.medium}",
-      "type": "sizing"
-    },
-    "broken-reference": {
+  "token-button": {
+    "color-token": {
       "width": {
-        "value": "{semantic.sizing.container.large}",
+        "value": "{semantic.sizing.inputs.icon-size.medium}",
         "type": "sizing"
       },
       "height": {
-        "value": "{semantic.sizing.container.large}",
+        "value": "{semantic.sizing.inputs.icon-size.medium}",
         "type": "sizing"
+      },
+      "broken-reference": {
+        "width": {
+          "value": "{semantic.sizing.container.large}",
+          "type": "sizing"
+        },
+        "height": {
+          "value": "{semantic.sizing.container.large}",
+          "type": "sizing"
+        }
+      }
+    },
+    "name-token": {
+      "width": {
+        "value": "{semantic.component.extra-large}",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "{semantic.component.small}",
+        "type": "sizing"
+      }
+    },
+    "default": {
+      "padding-left": {
+        "value": "{semantic.spacing.actions.small.padding-left}",
+        "type": "spacing"
+      },
+      "padding-right": {
+        "value": "{semantic.spacing.actions.small.padding-left}",
+        "type": "spacing"
+      },
+      "padding-top": {
+        "value": "{semantic.spacing.actions.small.padding-top}",
+        "type": "spacing"
+      },
+      "padding-bottom": {
+        "value": "{semantic.spacing.actions.small.padding-bottom}",
+        "type": "spacing"
       }
     }
   },
@@ -145,36 +175,6 @@
     "border-radius": {
       "value": "{semantic.border-radius.actions}",
       "type": "borderRadius"
-    }
-  },
-  "token-button": {
-    "name-token": {
-      "width": {
-        "value": "{semantic.component.extra-large}",
-        "type": "sizing"
-      },
-      "height": {
-        "value": "{semantic.component.small}",
-        "type": "sizing"
-      }
-    },
-    "default": {
-      "padding-left": {
-        "value": "{semantic.spacing.actions.small.padding-left}",
-        "type": "spacing"
-      },
-      "padding-right": {
-        "value": "{semantic.spacing.actions.small.padding-left}",
-        "type": "spacing"
-      },
-      "padding-top": {
-        "value": "{semantic.spacing.actions.small.padding-top}",
-        "type": "spacing"
-      },
-      "padding-bottom": {
-        "value": "{semantic.spacing.actions.small.padding-bottom}",
-        "type": "spacing"
-      }
     }
   }
 }
