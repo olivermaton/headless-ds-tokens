@@ -11,6 +11,10 @@
     "background-color": {
       "value": "{semantic.color.actions.cta.default.background-color}",
       "type": "color"
+    },
+    "trial token": {
+      "value": "{semantic.color.actions.negative.default.text-color}",
+      "type": "color"
     }
   },
   "hover": {
