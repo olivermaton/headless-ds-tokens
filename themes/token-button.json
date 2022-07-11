@@ -179,6 +179,12 @@
         "value": "{semantic.spacing.actions.small.padding-bottom}",
         "type": "spacing"
       }
+    },
+    "selected": {
+      "border-width": {
+        "value": "{semantic.border-width.focus}",
+        "type": "borderWidth"
+      }
     }
   }
 }
