@@ -1,9 +1,5 @@
 {
   "default": {
-    "border-color": {
-      "value": "{semantic.color.actions.cta.default.text-color}",
-      "type": "color"
-    },
     "text-color": {
       "value": "{semantic.color.actions.cta.default.text-color}",
       "type": "color"
