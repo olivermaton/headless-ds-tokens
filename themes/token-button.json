@@ -71,10 +71,6 @@
       "type": "color"
     },
     "base": {
-      "border-color": {
-        "value": "{semantic.color.focus.border-color}",
-        "type": "color"
-      },
       "background-color": {
         "value": "{semantic.color.actions.cta.active.background-color}",
         "type": "color"
