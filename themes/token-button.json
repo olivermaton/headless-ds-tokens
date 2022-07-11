@@ -38,16 +38,14 @@
     }
   },
   "active": {
-    "color": {
+    "border-color": {
+      "value": "{semantic.color.actions.cta.active.border-color}",
+      "type": "color"
+    },
+    "base": {
       "border-color": {
-        "value": "{semantic.color.actions.cta.active.border-color}",
+        "value": "{semantic.color.actions.cta.active.text-color}",
         "type": "color"
-      },
-      "base": {
-        "border-color": {
-          "value": "{semantic.color.actions.cta.active.text-color}",
-          "type": "color"
-        }
       }
     },
     "background-color": {
