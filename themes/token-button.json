@@ -100,7 +100,7 @@
     }
   },
   "token-button": {
-    "color-token": {
+    "color": {
       "width": {
         "value": "{semantic.sizing.inputs.icon-size.medium}",
         "type": "sizing"
@@ -118,9 +118,7 @@
           "value": "{semantic.sizing.container.large}",
           "type": "sizing"
         }
-      }
-    },
-    "color": {
+      },
       "border-radius": {
         "value": "{semantic.border.radius.large}",
         "type": "borderRadius"
