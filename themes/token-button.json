@@ -38,7 +38,7 @@
     }
   },
   "active": {
-    "color-token": {
+    "color": {
       "border-color": {
         "value": "{semantic.color.actions.cta.active.border-color}",
         "type": "color"
