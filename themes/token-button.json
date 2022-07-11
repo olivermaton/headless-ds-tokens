@@ -67,7 +67,7 @@
   },
   "selected": {
     "border-color": {
-      "value": "{semantic.color.actions.cta.active.border-color}",
+      "value": "{semantic.color.focus.border-color}",
       "type": "color"
     },
     "base": {
