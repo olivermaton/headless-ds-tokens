@@ -84,6 +84,20 @@
               "value": "{color.black.50}",
               "type": "color"
             }
+          },
+          "focus": {
+            "border-color": {
+              "value": "{color.primary.500}",
+              "type": "color"
+            },
+            "background-color": {
+              "value": "{color.white}",
+              "type": "color"
+            },
+            "icon-color": {
+              "value": "{color.black.50}",
+              "type": "color"
+            }
           }
         }
       },
