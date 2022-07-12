@@ -51,12 +51,6 @@
     "text-color": {
       "value": "{semantic.color.actions.cta.active.text-color}",
       "type": "color"
-    },
-    "name-token": {
-      "border-color": {
-        "value": "{semantic.color.actions.cta.focus.border-color}",
-        "type": "color"
-      }
     }
   },
   "selected": {
