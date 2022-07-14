@@ -46,11 +46,11 @@
               "value": "{color.gray.200}",
               "type": "color"
             },
-            "backgrouond-color": {
+            "background-color": {
               "value": "{color.primary.300}",
               "type": "color"
             },
-            "icon-color": {
+            "text-color": {
               "value": "{color.primary.500}",
               "type": "color"
             }
