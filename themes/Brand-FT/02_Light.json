@@ -69,6 +69,10 @@
             "icon-color": {
               "value": "{color.black.50}",
               "type": "color"
+            },
+            "text-color": {
+              "value": "{color.black.50}",
+              "type": "color"
             }
           },
           "hover": {
