@@ -7,6 +7,10 @@
     "background-color": {
       "value": "{semantic.color.actions.primary.default.background-color}",
       "type": "color"
+    },
+    "border-color": {
+      "value": "{semantic.color.actions.primary.default.border-color}",
+      "type": "color"
     }
   },
   "hover": {
@@ -63,6 +67,10 @@
         "value": "{semantic.color.actions.primary.active.background-color}",
         "type": "color"
       }
+    },
+    "text-color": {
+      "value": "{semantic.color.actions.primary.active.text-color}",
+      "type": "color"
     }
   },
   "error": {
