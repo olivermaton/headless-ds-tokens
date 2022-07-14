@@ -1,21 +1,21 @@
 {
   "default": {
     "text-color": {
-      "value": "{semantic.color.actions.cta.default.text-color}",
+      "value": "{semantic.color.actions.primary.default.text-color}",
       "type": "color"
     },
     "background-color": {
-      "value": "{semantic.color.actions.cta.default.background-color}",
+      "value": "{semantic.color.actions.primary.default.background-color}",
       "type": "color"
     }
   },
   "hover": {
     "background-color": {
-      "value": "{semantic.color.actions.cta.hover.background-color}",
+      "value": "{semantic.color.actions.primary.hover.background-color}",
       "type": "color"
     },
     "text-color": {
-      "value": "{semantic.color.actions.cta.hover.text-color}",
+      "value": "{semantic.color.actions.primary.hover.text-color}",
       "type": "color"
     }
   },
@@ -25,31 +25,31 @@
       "type": "color"
     },
     "background-color": {
-      "value": "{semantic.color.actions.cta.default.background-color}",
+      "value": "{semantic.color.actions.primary.default.background-color}",
       "type": "color"
     },
     "text-color": {
-      "value": "{semantic.color.actions.cta.default.text-color}",
+      "value": "{semantic.color.actions.primary.default.text-color}",
       "type": "color"
     }
   },
   "active": {
     "border-color": {
-      "value": "{semantic.color.actions.cta.active.border-color}",
+      "value": "{semantic.color.actions.primary.active.border-color}",
       "type": "color"
     },
     "base": {
       "border-color": {
-        "value": "{semantic.color.actions.cta.active.text-color}",
+        "value": "{semantic.color.actions.primary.active.text-color}",
         "type": "color"
       }
     },
     "background-color": {
-      "value": "{semantic.color.actions.cta.active.background-color}",
+      "value": "{semantic.color.actions.primary.active.background-color}",
       "type": "color"
     },
     "text-color": {
-      "value": "{semantic.color.actions.cta.active.text-color}",
+      "value": "{semantic.color.actions.primary.active.text-color}",
       "type": "color"
     }
   },
@@ -60,7 +60,7 @@
     },
     "base": {
       "background-color": {
-        "value": "{semantic.color.actions.cta.active.background-color}",
+        "value": "{semantic.color.actions.primary.active.background-color}",
         "type": "color"
       }
     }
@@ -68,11 +68,11 @@
   "error": {
     "base": {
       "background-color": {
-        "value": "{semantic.color.actions.cta.default.background-color}",
+        "value": "{semantic.color.actions.primary.default.background-color}",
         "type": "color"
       },
       "text-color": {
-        "value": "{semantic.color.actions.cta.default.text-color}",
+        "value": "{semantic.color.actions.primary.default.text-color}",
         "type": "color"
       }
     },
