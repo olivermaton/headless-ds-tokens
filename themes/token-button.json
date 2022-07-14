@@ -82,6 +82,10 @@
       "text-color": {
         "value": "{semantic.color.actions.primary.default.text-color}",
         "type": "color"
+      },
+      "border-color": {
+        "value": "{semantic.color.actions.primary.default.border-color}",
+        "type": "color"
       }
     },
     "broke-reference": {
