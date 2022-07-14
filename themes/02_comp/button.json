@@ -369,7 +369,7 @@
     "negative": {
       "default": {
         "background-color": {
-          "value": "{color.neutrals.transparent}",
+          "value": "{semantic.color.actions.negative.default.background-color}",
           "type": "color"
         },
         "quiet-background-color": {
