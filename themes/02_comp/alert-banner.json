@@ -127,6 +127,10 @@
     "line-height": {
       "value": "{semantic.line-height.feedback}",
       "type": "lineHeights"
+    },
+    "border-radius": {
+      "value": "{semantic.border-radius.feedback}",
+      "type": "borderRadius"
     }
   }
 }
