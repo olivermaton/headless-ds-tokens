@@ -37,21 +37,21 @@
       },
       "track": {
         "width": {
-          "value": "{semantic.component.extra-large}",
+          "value": "{semantic.component.medium}",
           "type": "sizing"
         },
         "height": {
-          "value": "{semantic.component.small}",
+          "value": "{semantic.component.extra-small}",
           "type": "sizing"
         }
       },
       "handle": {
         "width": {
-          "value": "{semantic.component.small}",
+          "value": "{semantic.component.extra-small}",
           "type": "sizing"
         },
         "height": {
-          "value": "{semantic.component.small}",
+          "value": "{semantic.component.extra-small}",
           "type": "sizing"
         }
       }
