@@ -115,8 +115,8 @@
           }
         },
         "focus": {
-          "border-color": {
-            "value": "{semantic.color.inputs.focus.border-color}",
+          "background-color": {
+            "value": "{semantic.color.inputs.selected.default.border-color}",
             "type": "color"
           }
         },
