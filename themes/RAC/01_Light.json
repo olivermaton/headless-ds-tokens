@@ -20,6 +20,133 @@
       "default": "600"
     }
   },
+  "brand": {
+    "primary": {
+      "100": {
+        "value": "#f9dbd8",
+        "type": "color"
+      },
+      "200": {
+        "value": "#f2b8b0",
+        "type": "color"
+      },
+      "300": {
+        "value": "#ec9489",
+        "type": "color"
+      },
+      "400": {
+        "value": "#e57161",
+        "type": "color"
+      },
+      "500": {
+        "value": "#df4d3a",
+        "type": "color"
+      },
+      "600": {
+        "value": "#b13e2f",
+        "type": "color"
+      },
+      "700": {
+        "value": "#852f23",
+        "type": "color"
+      },
+      "800": {
+        "value": "#591f18",
+        "type": "color"
+      },
+      "900": {
+        "value": "#2c100c",
+        "type": "color"
+      },
+      "base": {
+        "value": "#df4d3a",
+        "type": "color"
+      }
+    },
+    "secondary": {
+      "100": {
+        "value": "#F4F6F5",
+        "type": "color"
+      },
+      "200": {
+        "value": "#E5EDE8",
+        "type": "color"
+      },
+      "300": {
+        "value": "#D9E5DC",
+        "type": "color"
+      },
+      "400": {
+        "value": "#CCDCD1",
+        "type": "color"
+      },
+      "500": {
+        "value": "#BFD3C5",
+        "type": "color"
+      },
+      "600": {
+        "value": "#99A99E",
+        "type": "color"
+      },
+      "700": {
+        "value": "#737F76",
+        "type": "color"
+      },
+      "800": {
+        "value": "#4C544F",
+        "type": "color"
+      },
+      "900": {
+        "value": "#262A27",
+        "type": "color"
+      },
+      "base": {
+        "value": "#BFD3C5",
+        "type": "color"
+      }
+    },
+    "teriarty": {
+      "100": {
+        "value": "#D4D4D9",
+        "type": "color"
+      },
+      "200": {
+        "value": "#A9A9B3",
+        "type": "color"
+      },
+      "300": {
+        "value": "#7E7E8E",
+        "type": "color"
+      },
+      "400": {
+        "value": "#535368",
+        "type": "color"
+      },
+      "500": {
+        "value": "#282842",
+        "type": "color"
+      },
+      "600": {
+        "value": "#202035",
+        "type": "color"
+      },
+      "700": {
+        "value": "#181828",
+        "type": "color"
+      },
+      "800": {
+        "value": "#10101A",
+        "type": "color"
+      },
+      "900": {
+        "value": "#08080D",
+        "type": "color"
+      },
+      "base": {
+        "value": "#282842",
+        "type": "color"
+      }
+    },
   "semantic": {
     "fg": {
       "default": {
